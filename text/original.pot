@@ -1,0 +1,290 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RegexPlanet \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-21 13:43-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ".Net"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Allow comments in regex (COMMENTS)"
+msgstr ""
+
+msgid "Can't find the right regex recipe?  Add a comment here with all the details, including some test inputs!"
+msgstr ""
+
+msgid "Case insensitive (CASE_INSENSITIVE)"
+msgstr ""
+
+msgid "Case insensitive matching (IGNORECASE)"
+msgstr ""
+
+msgid "Case-insensitive matching (IgnoreCase)"
+msgstr ""
+
+msgid "Cookbook"
+msgstr ""
+
+msgid "Cookbook:"
+msgstr ""
+
+msgid "Create a fiddle to share this regex"
+msgstr ""
+
+msgid "DEBUG"
+msgstr ""
+
+msgid "DOTALL"
+msgstr ""
+
+msgid "Dot matches line terminator (DOTALL)"
+msgstr ""
+
+msgid "ECMAScript-compliant behavior. This value can be used only in conjunction with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
+msgstr ""
+
+msgid "Eliminate unescaped white space from the pattern and enable comments marked with # (IgnorePatternWhitespace)"
+msgstr ""
+
+msgid "Erlang"
+msgstr ""
+
+msgid "Extended with whitespace and comments (x)"
+msgstr ""
+
+msgid "Fiddle"
+msgstr ""
+
+msgid "Fiddle:"
+msgstr ""
+
+msgid "Force canonical equivalence (CANON_EQ)"
+msgstr ""
+
+msgid "Fork"
+msgstr ""
+
+msgid "Global match (g)"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "IGNORECASE"
+msgstr ""
+
+msgid "Ignore whitespace in the regular expression (EXTENDED)"
+msgstr ""
+
+#, java-format
+msgid "Input {0}:"
+msgstr ""
+
+msgid "Java"
+msgstr ""
+
+msgid "JavaDoc"
+msgstr ""
+
+msgid "Keep current position (c)"
+msgstr ""
+
+msgid "LOCALE"
+msgstr ""
+
+msgid "MSDN"
+msgstr ""
+
+msgid "MULTILINE"
+msgstr ""
+
+msgid "More Inputs"
+msgstr ""
+
+msgid "Newlines are just another character (MULTILINE)"
+msgstr ""
+
+msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
+msgstr ""
+
+msgid "PCRE Functions"
+msgstr ""
+
+msgid "PCRE overview"
+msgstr ""
+
+msgid "PHP"
+msgstr ""
+
+msgid "Package regexp"
+msgstr ""
+
+msgid "Perl"
+msgstr ""
+
+msgid "Preserve matched strings (p)"
+msgstr ""
+
+msgid "Previous version"
+msgstr ""
+
+msgid "Python"
+msgstr ""
+
+msgid "Recipe Requests"
+msgstr ""
+
+#, java-format
+msgid "RegEx: online regular expression testing for {0}"
+msgstr ""
+
+msgid "Regexp Ruby-Doc"
+msgstr ""
+
+msgid "Regexp class"
+msgstr ""
+
+msgid "Regular expression:"
+msgstr ""
+
+msgid "Replacement:"
+msgstr ""
+
+msgid "Ruby"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "System.Text.RegularExpressions.Regex"
+msgstr ""
+
+msgid "Test"
+msgstr ""
+
+msgid "Testing"
+msgstr ""
+
+#, java-format
+msgid "The {0} engine is still in beta."
+msgstr ""
+
+msgid "UNICODE"
+msgstr ""
+
+msgid "Unicode case matching (UNICODE_CASE)"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Use ASCII charset rules (a)"
+msgstr ""
+
+msgid "Use Unicode charset rules (u)"
+msgstr ""
+
+msgid "Use default charset rules (d)"
+msgstr ""
+
+msgid "Use locale charset rules (l)"
+msgstr ""
+
+msgid "VERBOSE"
+msgstr ""
+
+msgid "View Recipe"
+msgstr ""
+
+#, java-format
+msgid "You are logged in as {0}"
+msgstr ""
+
+msgid "^ and $ match EOL (MULTILINE)"
+msgstr ""
+
+msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (Multiline)"
+msgstr ""
+
+msgid "case-insensitive (i)"
+msgstr ""
+
+msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
+msgstr ""
+
+msgid "golang.org"
+msgstr ""
+
+msgid "i - Case insensitive (PCRE_CASELESS)"
+msgstr ""
+
+msgid "ignore cultural differences in language (CultureInvariant)"
+msgstr ""
+
+msgid "java.util.regex.Pattern"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "m - ^ and $ match EOL (PCRE_MULTILINE)"
+msgstr ""
+
+msgid "multiline (m)"
+msgstr ""
+
+msgid "only explicitly named or numbered groups of the form (?<name>…) are valid captures (ExplicitCapture)"
+msgstr ""
+
+msgid "perldoc"
+msgstr ""
+
+msgid "perlre"
+msgstr ""
+
+msgid "re man page"
+msgstr ""
+
+msgid "re module"
+msgstr ""
+
+msgid "re pyDoc"
+msgstr ""
+
+msgid "s - Dot matches line terminator (PCRE_DOTALL)"
+msgstr ""
+
+msgid "search will be from right to left instead of from left to right (RightToLeft)"
+msgstr ""
+
+msgid "single line (s)"
+msgstr ""
+
+msgid "u - Pattern strings are treated as UTF-8 (PCRE8)"
+msgstr ""
+
+msgid "x - Allow comments in regex (PCRE_EXTENDED)"
+msgstr ""
+
+#, java-format
+msgid "{0} (beta)"
+msgstr ""
+
+#, java-format
+msgid "{0} ({1})"
+msgstr ""
