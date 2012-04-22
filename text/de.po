@@ -1,0 +1,637 @@
+# created by GT4PO
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-22 21:10-0400\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+
+msgid "%html.lang.attribute"
+msgstr "de-x-mtfrom-en"
+
+#, fuzzy
+msgid "%request.html"
+msgstr "Sie finden nicht was Sie brauchen? <a href=\"request.html\">Fordern Sie ein Rezept</a> !"
+
+#, fuzzy
+msgid "(current)"
+msgstr "(Aktuell)"
+
+#, fuzzy
+msgid ".Net"
+msgstr ". Net"
+
+#, fuzzy
+msgid "Add"
+msgstr "Hinzufügen"
+
+#, fuzzy
+msgid "All"
+msgstr "Alle"
+
+#, fuzzy
+msgid "All Recipes"
+msgstr "Rezept anzeigen"
+
+#, fuzzy
+msgid "Allow comments in regex (COMMENTS)"
+msgstr "Kommentare erlauben in regex (Kommentare)"
+
+#, fuzzy
+msgid "Bookstore"
+msgstr "Buchhandlung"
+
+#, fuzzy
+msgid ""
+"Can't find the right regex recipe?  Add a comment here with all the details, "
+"including some test inputs!"
+msgstr ""
+"Können Sie nicht das richtige Rezept regex? Fügen Sie hier einen Kommentar "
+"mit allen Details, darunter auch einige Test-Eingänge!"
+
+#, fuzzy
+msgid "Case insensitive (CASE_INSENSITIVE)"
+msgstr "Groß-und Kleinschreibung (case_insensitive)"
+
+#, fuzzy
+msgid "Case insensitive matching (IGNORECASE)"
+msgstr "Groß-und Kleinschreibung Matching (IGNORECASE)"
+
+#, fuzzy
+msgid "Case-insensitive matching (IgnoreCase)"
+msgstr "Groß-und Kleinschreibung Matching (IgnoreCase)"
+
+#, fuzzy
+msgid "Change language"
+msgstr "Sprache ändern"
+
+#, fuzzy
+msgid "Coding"
+msgstr "Coding"
+
+#, fuzzy
+msgid "Contact"
+msgstr "Kontakt"
+
+#, fuzzy
+msgid "Cookbook"
+msgstr "Kochbuch"
+
+#, fuzzy
+msgid "Cookbook:"
+msgstr "Cookbook:"
+
+#, fuzzy
+msgid "Create a fiddle to share this regex"
+msgstr "Erstellen Sie eine Geige, diese Regex teilen"
+
+#, fuzzy
+msgid "Credits"
+msgstr "Credits"
+
+#, fuzzy
+msgid "DEBUG"
+msgstr "DEBUG"
+
+#, fuzzy
+msgid "DOTALL"
+msgstr "Dotall"
+
+#, fuzzy
+msgid "Debugging Info"
+msgstr "Debugging-Informationen"
+
+#, fuzzy
+msgid "Design & Graphics"
+msgstr "Design & Grafik"
+
+#, fuzzy
+msgid "Dot matches line terminator (DOTALL)"
+msgstr "Punkt entspricht Leitungsabschluss (dotall)"
+
+#, fuzzy
+msgid ""
+"ECMAScript-compliant behavior. This value can be used only in conjunction "
+"with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
+msgstr ""
+"ECMAScript-konformes Verhalten. Dieser Wert kann nur in Verbindung mit den "
+"IgnoreCase, Multiline und Compiled Werte verwendet werden. (ECMAScript)"
+
+#, fuzzy
+msgid ""
+"Eliminate unescaped white space from the pattern and enable comments marked "
+"with # (IgnorePatternWhitespace)"
+msgstr ""
+"Beseitigen Sie unescaped Leerzeichen aus dem Muster und ermöglichen "
+"Kommentare mit # (IgnorePatternWhitespace) markiert"
+
+#, fuzzy
+msgid "Engines"
+msgstr "Motoren"
+
+#, fuzzy
+msgid "Erlang"
+msgstr "Erlang"
+
+#, fuzzy
+msgid "Expression to test"
+msgstr "Expression zu testen"
+
+#, fuzzy
+msgid "Extended with whitespace and comments (x)"
+msgstr "Erweitert mit Leerzeichen und Kommentare (x)"
+
+#, fuzzy
+msgid "FAQ"
+msgstr "FAQ"
+
+#, fuzzy
+msgid "Featured"
+msgstr "Weitere Rezepte"
+
+#, fuzzy
+msgid "Featured Recipes"
+msgstr "Weitere Rezepte"
+
+#, fuzzy
+msgid "Fiddle"
+msgstr "Fummeln"
+
+#, fuzzy
+msgid "Fiddle!"
+msgstr "Fummeln"
+
+#, fuzzy
+msgid "Fiddle:"
+msgstr "Fiddle:"
+
+#, fuzzy
+msgid ""
+"Fiddles are an easy way to share regexes.  If you have a raw fiddle, enter "
+"it here:"
+msgstr ""
+"Geigen sind eine einfache Möglichkeit, reguläre Ausdrücke zu teilen. Wenn "
+"Sie eine Raw-Geige haben, geben Sie hier:"
+
+#, fuzzy
+msgid "Force canonical equivalence (CANON_EQ)"
+msgstr "Force-kanonische Äquivalenz (CANON_EQ)"
+
+#, fuzzy
+msgid "Fork"
+msgstr "Gabel"
+
+#, fuzzy
+msgid "Global match (g)"
+msgstr "Globale Match (g)"
+
+#, fuzzy
+msgid "Go"
+msgstr "Gehen"
+
+#, fuzzy
+msgid "History"
+msgstr "Geschichte"
+
+#, fuzzy
+msgid "Hosting"
+msgstr "Testing"
+
+#, fuzzy
+msgid "IGNORECASE"
+msgstr "IGNORECASE"
+
+#, fuzzy
+msgid "Ignore whitespace in the regular expression (EXTENDED)"
+msgstr "Ignorieren Leerzeichen im regulären Ausdruck (EXTENDED)"
+
+#, fuzzy, java-format
+msgid "Input {0}:"
+msgstr "Eingang {0}:"
+
+#, fuzzy
+msgid "Java"
+msgstr "Java"
+
+#, fuzzy
+msgid "JavaDoc"
+msgstr "JavaDoc"
+
+#, fuzzy
+msgid "Jobs"
+msgstr "Jobs"
+
+#, fuzzy
+msgid "Keep current position (c)"
+msgstr "Halten Sie die aktuelle Position (c)"
+
+#, fuzzy
+msgid "LOCALE"
+msgstr "LOCALE"
+
+#, fuzzy
+msgid "Links"
+msgstr "Links"
+
+#, fuzzy
+msgid "MSDN"
+msgstr "MSDN"
+
+#, fuzzy
+msgid "MULTILINE"
+msgstr "MULTILINE"
+
+#, fuzzy
+msgid "Metadata"
+msgstr "Metadata"
+
+#, fuzzy
+msgid "Mine"
+msgstr "Bergwerk"
+
+#, fuzzy
+msgid "More Inputs"
+msgstr "Weitere Eingänge"
+
+#, fuzzy
+msgid "My Recipes"
+msgstr "Rezept anzeigen"
+
+#, fuzzy
+msgid "Newlines are just another character (MULTILINE)"
+msgstr "Zeilenumbrüche sind nur ein weiteres Zeichen (MULTILINE)"
+
+#, fuzzy
+msgid "Not currently being monitored."
+msgstr "Zur Zeit nicht überwacht wird."
+
+#, fuzzy
+msgid "Official Documentation Links"
+msgstr "Offizielle Dokumentation Links"
+
+#, fuzzy
+msgid "One last thing"
+msgstr "Eine letzte Sache"
+
+#, fuzzy
+msgid "Online Regular Expression Testing"
+msgstr "Online Regular Expression Testing"
+
+#, fuzzy
+msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
+msgstr "Nur betrachten '\\ n' als Leitungsabschluss (UNIX_LINES)"
+
+#, fuzzy
+msgid "Options:"
+msgstr "Optionen:"
+
+#, fuzzy
+msgid "PCRE Functions"
+msgstr "PCRE-Funktionen"
+
+#, fuzzy
+msgid "PCRE overview"
+msgstr "PCRE Überblick"
+
+#, fuzzy
+msgid "PHP"
+msgstr "PHP"
+
+#, fuzzy
+msgid "Package regexp"
+msgstr "Paket regexp"
+
+#, fuzzy
+msgid "Perl"
+msgstr "Perl"
+
+#, fuzzy
+msgid "Pick which programming language you are using:"
+msgstr "Wählen Sie, welche Programmiersprache Sie verwenden:"
+
+#, fuzzy
+msgid "Ping"
+msgstr "Pingen"
+
+#, fuzzy
+msgid "Preserve matched strings (p)"
+msgstr "Preserve übereinstimmenden Strings (p)"
+
+#, fuzzy
+msgid "Previous version"
+msgstr "Vorherige Version"
+
+#, fuzzy
+msgid "Privacy Policy"
+msgstr "Datenschutz"
+
+#, fuzzy
+msgid "Python"
+msgstr "Python"
+
+#, fuzzy
+msgid "Recent"
+msgstr "Rezept anzeigen"
+
+#, fuzzy
+msgid "Recent Recipes"
+msgstr "Rezept anzeigen"
+
+#, fuzzy
+msgid "Recipe Requests"
+msgstr "Rezept-Gesuche"
+
+#, fuzzy
+msgid "Recipes by user"
+msgstr "Rezept-Gesuche"
+
+#, fuzzy, java-format
+msgid "RegEx: online regular expression testing for {0}"
+msgstr "RegEx: Online-Tests regulären Ausdruck für {0}"
+
+#, fuzzy, java-format
+msgid ""
+"RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
+msgstr ""
+"RegexPlanet - Online Regulärer Ausdruck (Regex) Prüf-und Kochbuch für: {0}"
+
+#, fuzzy
+msgid "RegexPlanet Resources"
+msgstr "RegexPlanet Ressourcen"
+
+#, fuzzy
+msgid "Regexp Ruby-Doc"
+msgstr "Regexp ruby-doc"
+
+#, fuzzy
+msgid "Regexp class"
+msgstr "RegExp-Klasse"
+
+#, fuzzy
+msgid "Regular expression:"
+msgstr "Regulärer Ausdruck:"
+
+#, fuzzy
+msgid ""
+"Regular expressions are an incredibly powerful tool, but can be rather "
+"tricky to get exactly right.  This is a website that I wrote so I could "
+"quickly and easily test regular expressions during development."
+msgstr "Reguläre Ausdrücke sind ein unglaublich mächtiges Werkzeug, kann aber auch recht schwierig zu bekommen hier genau richtig. Dies ist eine Website, die ich schrieb, so konnte ich schnell und einfach testen, reguläre Ausdrücke während der Entwicklung."
+
+#, fuzzy
+msgid "Replacement:"
+msgstr "Ersatz:"
+
+#, fuzzy
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#, fuzzy
+msgid "Ruby"
+msgstr "Rubin"
+
+#, fuzzy
+msgid "Select"
+msgstr "Wählen"
+
+#, fuzzy
+msgid "Select a language"
+msgstr "Wählen Sie eine Sprache"
+
+#, fuzzy
+msgid "Similar"
+msgstr "Ähnlich"
+
+#, fuzzy
+msgid "Status"
+msgstr "Status"
+
+#, fuzzy
+msgid "Support"
+msgstr "Unterstützen"
+
+#, fuzzy
+msgid "System.Text.RegularExpressions.Regex"
+msgstr "System.Text.RegularExpressions.Regex"
+
+#, fuzzy
+msgid "Terms of Service"
+msgstr "Nutzungsbedingungen"
+
+#, fuzzy
+msgid "Test"
+msgstr "Test"
+
+#, fuzzy
+msgid "Testing"
+msgstr "Testing"
+
+#, fuzzy
+msgid "The Regex Cookbook"
+msgstr "Kochbuch"
+
+#, fuzzy
+msgid ""
+"The original version was Java-based and did not require a JavaScript-enabled "
+"browser.  No need to use it if the Java one above works for you, but a lot "
+"of links go directly to it:"
+msgstr ""
+"Die Originalversion wurde Java-basierte und nicht verlangen, einen "
+"JavaScript-fähigen Browser. Kein Grund, es zu benutzen, wenn die Java "
+"übereinander für Sie arbeitet, aber eine Menge Links direkt zu es:"
+
+#, fuzzy, java-format
+msgid "The {0} engine is still in beta."
+msgstr "Die {0} Motor noch im Beta Stadium."
+
+#, fuzzy
+msgid "To Do"
+msgstr "To Do"
+
+#, fuzzy
+msgid "Tools and services used to build RegexPlanet"
+msgstr "Werkzeuge und Dienstleistungen verwendet werden, um RegexPlanet bauen"
+
+#, fuzzy
+msgid "UNICODE"
+msgstr "UNICODE"
+
+#, fuzzy
+msgid "Unicode case matching (UNICODE_CASE)"
+msgstr "Unicode-Fall-Anpassung (UNICODE_CASE)"
+
+#, fuzzy
+msgid "Update"
+msgstr "Aktualisieren"
+
+#, fuzzy
+msgid "Use ASCII charset rules (a)"
+msgstr "Verwenden Sie ASCII-Zeichensatz Regeln (a)"
+
+#, fuzzy
+msgid "Use Unicode charset rules (u)"
+msgstr "Verwenden Sie Unicode-Zeichensatz Regeln (u)"
+
+#, fuzzy
+msgid "Use default charset rules (d)"
+msgstr "Verwenden Sie Standard-Zeichensatz Regeln (d)"
+
+#, fuzzy
+msgid "Use locale charset rules (l)"
+msgstr "Verwenden Sie locale charset Regeln (l)"
+
+#, fuzzy
+msgid ""
+"Use the cookbook to save and share regex recipes.<br/><br/>Note: while you "
+"can view anonymously, you must be logged in to save."
+msgstr ""
+"Verwenden Sie das Kochbuch zu speichern und teilen regex Rezepte <br/>. "
+"Hinweis: wenn Sie anonym anzeigen können, müssen Sie angemeldet sein, um zu "
+"sparen."
+
+#, fuzzy
+msgid "VERBOSE"
+msgstr "VERBOSE"
+
+#, fuzzy
+msgid "View Recipe"
+msgstr "Rezept anzeigen"
+
+#, fuzzy, java-format
+msgid "You are logged in as {0}"
+msgstr "Sie sind angemeldet als {0}"
+
+#, fuzzy
+msgid ""
+"You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</"
+"a> first!"
+msgstr ""
+"Sie müssen <a href=\"/security/login.html?next=/cookbook/my.html\"> Login </ "
+"a> zuerst!"
+
+#, fuzzy
+msgid "^ and $ match EOL (MULTILINE)"
+msgstr "^ Und $ EOL (MULTILINE)"
+
+#, fuzzy
+msgid ""
+"^ and $ so they match at the beginning and end, respectively, of any line, "
+"and not just the beginning and end of the entire string (Multiline)"
+msgstr ""
+"^ Und $, so dass sie am Anfang und Ende entsprechen jeweils einer Zeile, und "
+"nicht nur den Beginn und das Ende des gesamten Strings (Multiline)"
+
+#, fuzzy
+msgid "case-insensitive (i)"
+msgstr "Groß-und Kleinschreibung (i)"
+
+#, fuzzy
+msgid ""
+"dot (.) matches every character instead of every character except newlines "
+"(Singleline)"
+msgstr ""
+"Punkt (.) entspricht jedem Zeichen anstelle von jedem Zeichen außer "
+"Zeilenumbrüche (Einzeiliges)"
+
+#, fuzzy
+msgid "golang.org"
+msgstr "golang.org"
+
+#, fuzzy
+msgid "i - Case insensitive (PCRE_CASELESS)"
+msgstr "i - Groß-/Kleinschreibung (PCRE_CASELESS)"
+
+#, fuzzy
+msgid "ignore cultural differences in language (CultureInvariant)"
+msgstr "ignorieren kulturelle Unterschiede in Sprache (CultureInvariant)"
+
+#, fuzzy
+msgid "java.util.regex.Pattern"
+msgstr "java.util.regex.Pattern"
+
+#, fuzzy
+msgid "login"
+msgstr "Login"
+
+#, fuzzy
+msgid "m - ^ and $ match EOL (PCRE_MULTILINE)"
+msgstr "m - ^ und $ passen EOL (PCRE_MULTILINE)"
+
+#, fuzzy
+msgid "multiline (m)"
+msgstr "Multiline (m)"
+
+#, fuzzy
+msgid ""
+"only explicitly named or numbered groups of the form (?<name>…) are valid "
+"captures (ExplicitCapture)"
+msgstr ""
+"nur explizit benannt oder nummerierte Gruppen in der Form (? <name> ...) "
+"sind gültig erfasst (ExplicitCapture)"
+
+#, fuzzy
+msgid "perldoc"
+msgstr "perldoc"
+
+#, fuzzy
+msgid "perlre"
+msgstr "perlre"
+
+#, fuzzy
+msgid "re man page"
+msgstr "Re Manpage"
+
+#, fuzzy
+msgid "re module"
+msgstr "Modul re"
+
+#, fuzzy
+msgid "re pyDoc"
+msgstr "Re PyDoc"
+
+#, fuzzy
+msgid "s - Dot matches line terminator (PCRE_DOTALL)"
+msgstr "s - Dot Spiele Leitungsabschluss (PCRE_DOTALL)"
+
+#, fuzzy
+msgid ""
+"search will be from right to left instead of from left to right (RightToLeft)"
+msgstr ""
+"Suche von rechts sein, statt nach links von links nach rechts (RightToLeft)"
+
+#, fuzzy
+msgid "single line (s)"
+msgstr "einzige Leitung (en)"
+
+#, fuzzy
+msgid "u - Pattern strings are treated as UTF-8 (PCRE8)"
+msgstr "u - Suchmuster werden als UTF-8 (PCRE8) behandelt"
+
+#, fuzzy
+msgid "x - Allow comments in regex (PCRE_EXTENDED)"
+msgstr "x - Kommentare erlauben in regex (PCRE_EXTENDED)"
+
+#, fuzzy, java-format
+msgid "{0} (beta)"
+msgstr "{0} (beta)"
+
+#, fuzzy, java-format
+msgid "{0} ({1})"
+msgstr "{0} ({1})"
+
+#, fuzzy, java-format
+msgid "{0} Engine Metadata"
+msgstr "{0} Motor Metadaten"
+
+#, fuzzy, java-format
+msgid "{0} Engine Ping Results"
+msgstr "{0} Ping-Engine Results"
+
+#, fuzzy, java-format
+msgid "{0} Engine Status"
+msgstr "{0} Engine-Status"
+
+#~ msgid "<a href="
+#~ msgstr "<A href ="

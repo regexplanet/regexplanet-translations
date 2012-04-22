@@ -1,26 +1,27 @@
-# SOME DESCRIPTIVE TITLE.
-# This file is put in the public domain.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# RegexPlanet English Translation: pretty empty, since the source is in English
+# Copyright (C) 2012
+# This file is distributed under the same license as the regexplanet package.
+# fileformat@gmail.com 2012
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: RegexPlanet \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-04-22 21:10-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Last-Translator: Andrew M <fileformat@gmail.com>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "%html.lang.attribute"
-msgstr ""
+msgstr "en"
 
 msgid "%request.html"
 msgstr ""
+"Can't find what you need?  <a href=\"request.html\">Request a recipe</a>!"
 
 msgid "(current)"
 msgstr ""
@@ -43,7 +44,9 @@ msgstr ""
 msgid "Bookstore"
 msgstr ""
 
-msgid "Can't find the right regex recipe?  Add a comment here with all the details, including some test inputs!"
+msgid ""
+"Can't find the right regex recipe?  Add a comment here with all the details, "
+"including some test inputs!"
 msgstr ""
 
 msgid "Case insensitive (CASE_INSENSITIVE)"
@@ -91,10 +94,14 @@ msgstr ""
 msgid "Dot matches line terminator (DOTALL)"
 msgstr ""
 
-msgid "ECMAScript-compliant behavior. This value can be used only in conjunction with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
+msgid ""
+"ECMAScript-compliant behavior. This value can be used only in conjunction "
+"with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
 msgstr ""
 
-msgid "Eliminate unescaped white space from the pattern and enable comments marked with # (IgnorePatternWhitespace)"
+msgid ""
+"Eliminate unescaped white space from the pattern and enable comments marked "
+"with # (IgnorePatternWhitespace)"
 msgstr ""
 
 msgid "Engines"
@@ -127,7 +134,9 @@ msgstr ""
 msgid "Fiddle:"
 msgstr ""
 
-msgid "Fiddles are an easy way to share regexes.  If you have a raw fiddle, enter it here:"
+msgid ""
+"Fiddles are an easy way to share regexes.  If you have a raw fiddle, enter "
+"it here:"
 msgstr ""
 
 msgid "Force canonical equivalence (CANON_EQ)"
@@ -265,7 +274,8 @@ msgid "RegEx: online regular expression testing for {0}"
 msgstr ""
 
 #, java-format
-msgid "RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
+msgid ""
+"RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
 msgstr ""
 
 msgid "RegexPlanet Resources"
@@ -280,7 +290,10 @@ msgstr ""
 msgid "Regular expression:"
 msgstr ""
 
-msgid "Regular expressions are an incredibly powerful tool, but can be rather tricky to get exactly right.  This is a website that I wrote so I could quickly and easily test regular expressions during development."
+msgid ""
+"Regular expressions are an incredibly powerful tool, but can be rather "
+"tricky to get exactly right.  This is a website that I wrote so I could "
+"quickly and easily test regular expressions during development."
 msgstr ""
 
 msgid "Replacement:"
@@ -322,7 +335,10 @@ msgstr ""
 msgid "The Regex Cookbook"
 msgstr ""
 
-msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
+msgid ""
+"The original version was Java-based and did not require a JavaScript-enabled "
+"browser.  No need to use it if the Java one above works for you, but a lot "
+"of links go directly to it:"
 msgstr ""
 
 #, java-format
@@ -356,7 +372,9 @@ msgstr ""
 msgid "Use locale charset rules (l)"
 msgstr ""
 
-msgid "Use the cookbook to save and share regex recipes.<br/><br/>Note: while you can view anonymously, you must be logged in to save."
+msgid ""
+"Use the cookbook to save and share regex recipes.<br/><br/>Note: while you "
+"can view anonymously, you must be logged in to save."
 msgstr ""
 
 msgid "VERBOSE"
@@ -369,19 +387,25 @@ msgstr ""
 msgid "You are logged in as {0}"
 msgstr ""
 
-msgid "You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</a> first!"
+msgid ""
+"You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</"
+"a> first!"
 msgstr ""
 
 msgid "^ and $ match EOL (MULTILINE)"
 msgstr ""
 
-msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (Multiline)"
+msgid ""
+"^ and $ so they match at the beginning and end, respectively, of any line, "
+"and not just the beginning and end of the entire string (Multiline)"
 msgstr ""
 
 msgid "case-insensitive (i)"
 msgstr ""
 
-msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
+msgid ""
+"dot (.) matches every character instead of every character except newlines "
+"(Singleline)"
 msgstr ""
 
 msgid "golang.org"
@@ -405,7 +429,9 @@ msgstr ""
 msgid "multiline (m)"
 msgstr ""
 
-msgid "only explicitly named or numbered groups of the form (?<name>…) are valid captures (ExplicitCapture)"
+msgid ""
+"only explicitly named or numbered groups of the form (?<name>…) are valid "
+"captures (ExplicitCapture)"
 msgstr ""
 
 msgid "perldoc"
@@ -426,7 +452,8 @@ msgstr ""
 msgid "s - Dot matches line terminator (PCRE_DOTALL)"
 msgstr ""
 
-msgid "search will be from right to left instead of from left to right (RightToLeft)"
+msgid ""
+"search will be from right to left instead of from left to right (RightToLeft)"
 msgstr ""
 
 msgid "single line (s)"
