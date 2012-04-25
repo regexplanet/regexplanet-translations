@@ -8,13 +8,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-22 21:10-0400\n"
+"POT-Creation-Date: 2012-04-24 20:20-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Andrew M <fileformat@gmail.com>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "%engines.bottom.html"
+msgstr ""
+"<p>Check out the <a href=\"api.html\">API specs</a> if you want to add "
+"support for another engine</p><p>See the <a href=\"options.html\">different "
+"options</a> supported by each engine.</p>"
 
 msgid "%html.lang.attribute"
 msgstr "en"
@@ -26,10 +32,16 @@ msgstr ""
 msgid "(current)"
 msgstr ""
 
+msgid "(not available)"
+msgstr ""
+
 msgid ".Net"
 msgstr ""
 
 msgid "Add"
+msgstr ""
+
+msgid "Administrator:"
 msgstr ""
 
 msgid "All"
@@ -41,12 +53,18 @@ msgstr ""
 msgid "Allow comments in regex (COMMENTS)"
 msgstr ""
 
+msgid "Beta"
+msgstr ""
+
 msgid "Bookstore"
 msgstr ""
 
 msgid ""
 "Can't find the right regex recipe?  Add a comment here with all the details, "
 "including some test inputs!"
+msgstr ""
+
+msgid "Cancel"
 msgstr ""
 
 msgid "Case insensitive (CASE_INSENSITIVE)"
@@ -88,6 +106,9 @@ msgstr ""
 msgid "Debugging Info"
 msgstr ""
 
+msgid "Description"
+msgstr ""
+
 msgid "Design & Graphics"
 msgstr ""
 
@@ -102,6 +123,12 @@ msgstr ""
 msgid ""
 "Eliminate unescaped white space from the pattern and enable comments marked "
 "with # (IgnorePatternWhitespace)"
+msgstr ""
+
+msgid "Email:"
+msgstr ""
+
+msgid "Engine"
 msgstr ""
 
 msgid "Engines"
@@ -145,6 +172,12 @@ msgstr ""
 msgid "Fork"
 msgstr ""
 
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgid "Frequenty Asked Questions"
+msgstr ""
+
 msgid "Global match (g)"
 msgstr ""
 
@@ -179,10 +212,22 @@ msgstr ""
 msgid "Keep current position (c)"
 msgstr ""
 
+msgid "Known Regex Engines"
+msgstr ""
+
+msgid "Known Regular Expression Engines"
+msgstr ""
+
 msgid "LOCALE"
 msgstr ""
 
 msgid "Links"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Logout"
 msgstr ""
 
 msgid "MSDN"
@@ -206,6 +251,12 @@ msgstr ""
 msgid "Newlines are just another character (MULTILINE)"
 msgstr ""
 
+msgid "Nickname:"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
 msgid "Not currently being monitored."
 msgstr ""
 
@@ -216,6 +267,9 @@ msgid "One last thing"
 msgstr ""
 
 msgid "Online Regular Expression Testing"
+msgstr ""
+
+msgid "Online Testing"
 msgstr ""
 
 msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
@@ -252,6 +306,9 @@ msgid "Previous version"
 msgstr ""
 
 msgid "Privacy Policy"
+msgstr ""
+
+msgid "Programming Ruby"
 msgstr ""
 
 msgid "Python"
@@ -305,6 +362,12 @@ msgstr ""
 msgid "Ruby"
 msgstr ""
 
+msgid "Running"
+msgstr ""
+
+msgid "Security Information"
+msgstr ""
+
 msgid "Select"
 msgstr ""
 
@@ -318,6 +381,12 @@ msgid "Status"
 msgstr ""
 
 msgid "Support"
+msgstr ""
+
+msgid "Support Links"
+msgstr ""
+
+msgid "Syntax"
 msgstr ""
 
 msgid "System.Text.RegularExpressions.Regex"
@@ -343,6 +412,12 @@ msgstr ""
 
 #, java-format
 msgid "The {0} engine is still in beta."
+msgstr ""
+
+msgid "This will be visible to the public if you share any of your recipes."
+msgstr ""
+
+msgid "This will not be published or shared."
 msgstr ""
 
 msgid "To Do"
@@ -383,8 +458,17 @@ msgstr ""
 msgid "View Recipe"
 msgstr ""
 
+msgid "Yes"
+msgstr ""
+
+msgid "You are already logged in."
+msgstr ""
+
 #, java-format
 msgid "You are logged in as {0}"
+msgstr ""
+
+msgid "You are not logged in."
 msgstr ""
 
 msgid ""
@@ -400,6 +484,12 @@ msgid ""
 "and not just the beginning and end of the entire string (Multiline)"
 msgstr ""
 
+msgid "behavior details"
+msgstr ""
+
+msgid "best practices"
+msgstr ""
+
 msgid "case-insensitive (i)"
 msgstr ""
 
@@ -409,6 +499,9 @@ msgid ""
 msgstr ""
 
 msgid "golang.org"
+msgstr ""
+
+msgid "howto"
 msgstr ""
 
 msgid "i - Case insensitive (PCRE_CASELESS)"
@@ -426,12 +519,18 @@ msgstr ""
 msgid "m - ^ and $ match EOL (PCRE_MULTILINE)"
 msgstr ""
 
+msgid "metadata"
+msgstr ""
+
 msgid "multiline (m)"
 msgstr ""
 
 msgid ""
 "only explicitly named or numbered groups of the form (?<name>…) are valid "
 "captures (ExplicitCapture)"
+msgstr ""
+
+msgid "overview"
 msgstr ""
 
 msgid "perldoc"
@@ -459,7 +558,16 @@ msgstr ""
 msgid "single line (s)"
 msgstr ""
 
+msgid "source"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
 msgid "u - Pattern strings are treated as UTF-8 (PCRE8)"
+msgstr ""
+
+msgid "uptime"
 msgstr ""
 
 msgid "x - Allow comments in regex (PCRE_EXTENDED)"
