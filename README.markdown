@@ -23,10 +23,10 @@ See the original.pot or en.po for complete examples.
 
 This is the workflow that
 
- # run `extract.sh`.  This creates the `original.pot` with all the strings that have to be translated, and adds blank entries to all the `XX.po` files for new strings.
- # run `gtrans.sh`.  This fills in any blank entries in the `XX.po` files with a machine translation.
- # Human translators edit the `XX.po` files and update all the `fuzzy` entries.
- # run `process.sh`.  This transfers the text in the `XX.po` files back to the website.
+ 1. run `extract.sh`.  This creates the `original.pot` with all the strings that have to be translated, and adds blank entries to all the `XX.po` files for new strings.
+ 2. run `gtrans.sh`.  This fills in any blank entries in the `XX.po` files with a machine translation.
+ 3. Human translators edit the `XX.po` files and update all the `fuzzy` entries.
+ 4. run `process.sh`.  This transfers the text in the `XX.po` files back to the website.
 
 ## Credits
 
