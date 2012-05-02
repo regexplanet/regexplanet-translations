@@ -5,7 +5,7 @@
 
 for f in ../text/??.po
 do
-	../../localeplanet/bin/po2prop.py $f
+	./po2prop.py $f
 	mv ../text/`basename $f .po`.properties ../../rxp/src/com/regexplanet/i18n/text/
 done
 

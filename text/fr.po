@@ -7,6 +7,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
+"Project-Id-Version: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Andrew Marcuse <fileformat@gmail.com>\n"
+"Language-Team: \n"
 
 #, fuzzy
 msgid "%engines.bottom.html"
@@ -27,9 +31,8 @@ msgstr "(En cours)"
 msgid "(not available)"
 msgstr "(Non disponible)"
 
-#, fuzzy
 msgid ".Net"
-msgstr ". Net"
+msgstr ".Net"
 
 #, fuzzy
 msgid "Add"
@@ -39,13 +42,11 @@ msgstr "Ajouter"
 msgid "Administrator:"
 msgstr "Administrateur:"
 
-#, fuzzy
 msgid "All"
-msgstr "Tous"
+msgstr "Toutes"
 
-#, fuzzy
 msgid "All Recipes"
-msgstr "Voir la recette"
+msgstr "Toutes les recettes"
 
 #, fuzzy
 msgid "Allow comments in regex (COMMENTS)"
@@ -59,9 +60,8 @@ msgstr "Bêta"
 msgid "Bookstore"
 msgstr "Librairie"
 
-#, fuzzy
 msgid "Can't find the right regex recipe?  Add a comment here with all the details, including some test inputs!"
-msgstr "Vous ne trouvez pas la recette regex droit? Ajouter un commentaire ici avec tous les détails, y compris certains des entrées de test!"
+msgstr "Vous ne trouvez pas la bonne recette regex? Ajouter un commentaire très précis, en y mettant des exemples afin de pouvoir faire des essais!"
 
 #, fuzzy
 msgid "Cancel"
@@ -95,9 +95,8 @@ msgstr "Contacter"
 msgid "Cookbook"
 msgstr "Livre de cuisine"
 
-#, fuzzy
 msgid "Cookbook:"
-msgstr "Cookbook:"
+msgstr "Livre de cuisine:"
 
 #, fuzzy
 msgid "Create a fiddle to share this regex"
@@ -143,9 +142,8 @@ msgstr "Éliminer l'espace blanc sans séquence d'échappement du modèle et act
 msgid "Email:"
 msgstr "Email:"
 
-#, fuzzy
 msgid "Engine"
-msgstr "Moteurs"
+msgstr "Moteur"
 
 #, fuzzy
 msgid "Engines"
@@ -211,9 +209,8 @@ msgstr "Foire Aux Questions"
 msgid "Global match (g)"
 msgstr "Correspondance globale (g)"
 
-#, fuzzy
 msgid "Go"
-msgstr "Aller"
+msgstr "Go"
 
 #, fuzzy
 msgid "History"
@@ -287,13 +284,11 @@ msgstr "MULTILINE"
 msgid "Metadata"
 msgstr "Métadonnées"
 
-#, fuzzy
 msgid "Mine"
-msgstr "Mine"
+msgstr "Les Miennes"
 
-#, fuzzy
 msgid "More Inputs"
-msgstr "Plus Entrées"
+msgstr "Plus d’Entrées"
 
 #, fuzzy
 msgid "My Recipes"
@@ -311,13 +306,11 @@ msgstr "Pseudo:"
 msgid "No"
 msgstr "Aucun"
 
-#, fuzzy
 msgid "Not currently being monitored."
-msgstr "Non actuellement surveillés."
+msgstr "Pas actuellement surveillés."
 
-#, fuzzy
 msgid "Official Documentation Links"
-msgstr "Documentation Liens officiels"
+msgstr "Liens de documentation officiels"
 
 #, fuzzy
 msgid "One last thing"
@@ -331,9 +324,12 @@ msgstr "Test en ligne Expression régulière"
 msgid "Online Testing"
 msgstr "Test"
 
-#, fuzzy
-msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
-msgstr "Ne considérer '\\ n' comme terminaison de ligne (UNIX_LINES)"
+msgid ""
+"Only consider '\\n"
+"' as line terminator (UNIX_LINES)"
+msgstr ""
+"Ne considérer que '\\n"
+"' comme terminaison de ligne (UNIX_LINES)"
 
 #, fuzzy
 msgid "Options:"
@@ -427,9 +423,8 @@ msgstr "Regexp classe"
 msgid "Regular expression:"
 msgstr "Expression régulière:"
 
-#, fuzzy
 msgid "Regular expressions are an incredibly powerful tool, but can be rather tricky to get exactly right.  This is a website that I wrote so I could quickly and easily test regular expressions during development."
-msgstr "Les expressions régulières sont un outil incroyablement puissant, mais peut être assez difficile à obtenir exactement droite. Il s'agit d'un site web que j'ai écrit pour que je puisse rapidement et facilement tester des expressions régulières au cours du développement."
+msgstr "Les expressions régulières sont un outil incroyablement puissant, mais peuvent être assez difficiles à écrire exactement comme il le faut. Ceci est un site web que j'ai écrit pour que je puisse rapidement et facilement tester des expressions régulières au cours du développement."
 
 #, fuzzy
 msgid "Replacement:"
@@ -439,9 +434,8 @@ msgstr "Remplacement:"
 msgid "Reset"
 msgstr "Remettre"
 
-#, fuzzy
 msgid "Ruby"
-msgstr "Rubis"
+msgstr "Ruby"
 
 #, fuzzy
 msgid "Running"
@@ -499,9 +493,8 @@ msgstr "Test"
 msgid "The Regex Cookbook"
 msgstr "Livre de cuisine"
 
-#, fuzzy
 msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
-msgstr "La version originale a été basée sur Java et n'a pas besoin d'un navigateur avec JavaScript activé. Pas besoin de l'utiliser si les travaux ci-dessus un Java pour vous, mais beaucoup de liens vont directement à elle:"
+msgstr "La version originale, basée sur Java, n'a pas besoin d'un navigateur avec JavaScript activé. Pas besoin de l'utiliser si celle en Java ci-dessus fonctionne pour vous, mais beaucoup de liens y vont:"
 
 #, fuzzy, java-format
 msgid "The {0} engine is still in beta."
@@ -511,9 +504,8 @@ msgstr "Le {0} moteur est encore en version bêta."
 msgid "This will be visible to the public if you share any of your recipes."
 msgstr "Ce sera visible pour le public si vous partagez toutes vos recettes."
 
-#, fuzzy
 msgid "This will not be published or shared."
-msgstr "Ce ne sera pas publié ou partagé."
+msgstr "Ceci ne sera pas publié ou partagé."
 
 #, fuzzy
 msgid "To Do"
@@ -527,9 +519,8 @@ msgstr "Outils et services utilisés pour construire RegexPlanet"
 msgid "UNICODE"
 msgstr "UNICODE"
 
-#, fuzzy
 msgid "Unicode case matching (UNICODE_CASE)"
-msgstr "Appariement cas Unicode (UNICODE_CASE)"
+msgstr "Unicode case matching (UNICODE_CASE)"
 
 #, fuzzy
 msgid "Update"
@@ -567,17 +558,15 @@ msgstr "Voir la recette"
 msgid "Yes"
 msgstr "Oui"
 
-#, fuzzy
 msgid "You are already logged in."
-msgstr "Vous êtes connecté en tant que {0}"
+msgstr "Vous êtes déjà connecté."
 
 #, fuzzy, java-format
 msgid "You are logged in as {0}"
 msgstr "Vous êtes connecté en tant que {0}"
 
-#, fuzzy
 msgid "You are not logged in."
-msgstr "Vous êtes connecté en tant que {0}"
+msgstr "Vous n’êtes pas connecté."
 
 #, fuzzy
 msgid "You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</a> first!"
@@ -722,3 +711,4 @@ msgstr "{0} Résultats Ping moteur"
 #, fuzzy, java-format
 msgid "{0} Engine Status"
 msgstr "Moteur condition {0}"
+
