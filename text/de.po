@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-24 20:20-0400\n"
+"POT-Creation-Date: 2012-05-13 20:54-0400\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,6 +20,10 @@ msgid "%request.html"
 msgstr "Sie finden nicht was Sie brauchen? <a href=\"request.html\">Fordern Sie ein Rezept</a> !"
 
 #, fuzzy
+msgid "%share.tip.html"
+msgstr "Sie finden nicht was Sie brauchen? <a href=\"request.html\">Fordern Sie ein Rezept</a> !"
+
+#, fuzzy
 msgid "(current)"
 msgstr "(Aktuell)"
 
@@ -30,6 +34,10 @@ msgstr "(Nicht verfügbar)"
 #, fuzzy
 msgid ".Net"
 msgstr ". Net"
+
+#, fuzzy
+msgid "A quick and easy way to share regular expressions"
+msgstr "Eine schnelle und einfache Möglichkeit, reguläre Ausdrücke zu teilen"
 
 #, fuzzy
 msgid "Add"
@@ -80,6 +88,10 @@ msgid "Case-insensitive matching (IgnoreCase)"
 msgstr "Groß-und Kleinschreibung Matching (IgnoreCase)"
 
 #, fuzzy
+msgid "Case-insensitive matching (i)"
+msgstr "Groß-und Kleinschreibung Matching (IgnoreCase)"
+
+#, fuzzy
 msgid "Change language"
 msgstr "Sprache ändern"
 
@@ -98,10 +110,6 @@ msgstr "Kochbuch"
 #, fuzzy
 msgid "Cookbook:"
 msgstr "Cookbook:"
-
-#, fuzzy
-msgid "Create a fiddle to share this regex"
-msgstr "Erstellen Sie eine Geige, diese Regex teilen"
 
 #, fuzzy
 msgid "Credits"
@@ -176,22 +184,6 @@ msgid "Featured Recipes"
 msgstr "Weitere Rezepte"
 
 #, fuzzy
-msgid "Fiddle"
-msgstr "Fummeln"
-
-#, fuzzy
-msgid "Fiddle!"
-msgstr "Fummeln"
-
-#, fuzzy
-msgid "Fiddle:"
-msgstr "Fiddle:"
-
-#, fuzzy
-msgid "Fiddles are an easy way to share regexes.  If you have a raw fiddle, enter it here:"
-msgstr "Geigen sind eine einfache Möglichkeit, reguläre Ausdrücke zu teilen. Wenn Sie eine Raw-Geige haben, geben Sie hier:"
-
-#, fuzzy
 msgid "Force canonical equivalence (CANON_EQ)"
 msgstr "Force-kanonische Äquivalenz (CANON_EQ)"
 
@@ -234,6 +226,10 @@ msgstr "Ignorieren Leerzeichen im regulären Ausdruck (EXTENDED)"
 #, fuzzy, java-format
 msgid "Input {0}:"
 msgstr "Eingang {0}:"
+
+#, fuzzy
+msgid "Invalid share code"
+msgstr "Ungültige Aktien-Code"
 
 #, fuzzy
 msgid "Java"
@@ -282,6 +278,10 @@ msgstr "MSDN"
 #, fuzzy
 msgid "MULTILINE"
 msgstr "MULTILINE"
+
+#, fuzzy
+msgid "Make share code"
+msgstr "Machen Sie Aktien-Code"
 
 #, fuzzy
 msgid "Metadata"
@@ -424,6 +424,10 @@ msgid "Regexp class"
 msgstr "RegExp-Klasse"
 
 #, fuzzy
+msgid "Regular Expression Sharing"
+msgstr "Regulärer Ausdruck:"
+
+#, fuzzy
 msgid "Regular expression:"
 msgstr "Regulärer Ausdruck:"
 
@@ -458,6 +462,26 @@ msgstr "Wählen"
 #, fuzzy
 msgid "Select a language"
 msgstr "Wählen Sie eine Sprache"
+
+#, fuzzy
+msgid "Services"
+msgstr "PCRE Überblick"
+
+#, fuzzy
+msgid "Share Codes"
+msgstr "Anteil Codes"
+
+#, fuzzy
+msgid "Share code"
+msgstr "Austausch von Code"
+
+#, fuzzy
+msgid "Share codes are an easy way to share regexes.  If you have a share code, enter it here:"
+msgstr "Geigen sind eine einfache Möglichkeit, reguläre Ausdrücke zu teilen. Wenn Sie eine Raw-Geige haben, geben Sie hier:"
+
+#, fuzzy
+msgid "Share!"
+msgstr "Share!"
 
 #, fuzzy
 msgid "Similar"
@@ -527,6 +551,10 @@ msgstr "Werkzeuge und Dienstleistungen verwendet werden, um RegexPlanet bauen"
 msgid "UNICODE"
 msgstr "UNICODE"
 
+#, java-format, fuzzy
+msgid "Unable to load share code {0}"
+msgstr "Kann Aktien-Code zu laden {0}"
+
 #, fuzzy
 msgid "Unicode case matching (UNICODE_CASE)"
 msgstr "Unicode-Fall-Anpassung (UNICODE_CASE)"
@@ -580,8 +608,24 @@ msgid "You are not logged in."
 msgstr "Sie sind angemeldet als {0}"
 
 #, fuzzy
+msgid "You are not the owner"
+msgstr "Sie sind angemeldet als {0}"
+
+#, fuzzy
+msgid "You cannot share blank regular expressions"
+msgstr "Sie können keine leere reguläre Ausdrücke"
+
+#, fuzzy
+msgid "You created this on a different machine"
+msgstr "Sie haben dies auf einer anderen Maschine"
+
+#, fuzzy
 msgid "You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</a> first!"
 msgstr "Sie müssen <a href=\"/security/login.html?next=/cookbook/my.html\"> Login </ a> zuerst!"
+
+#, fuzzy
+msgid "Your sharing link is "
+msgstr "Ihr Link-Sharing ist"
 
 #, fuzzy
 msgid "^ and $ match EOL (MULTILINE)"
@@ -589,6 +633,10 @@ msgstr "^ Und $ EOL (MULTILINE)"
 
 #, fuzzy
 msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (Multiline)"
+msgstr "^ Und $, so dass sie am Anfang und Ende entsprechen jeweils einer Zeile, und nicht nur den Beginn und das Ende des gesamten Strings (Multiline)"
+
+#, fuzzy
+msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (m)"
 msgstr "^ Und $, so dass sie am Anfang und Ende entsprechen jeweils einer Zeile, und nicht nur den Beginn und das Ende des gesamten Strings (Multiline)"
 
 #, fuzzy
@@ -606,6 +654,10 @@ msgstr "Groß-und Kleinschreibung (i)"
 #, fuzzy
 msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
 msgstr "Punkt (.) entspricht jedem Zeichen anstelle von jedem Zeichen außer Zeilenumbrüche (Einzeiliges)"
+
+#, fuzzy
+msgid "global - find all matches (g)"
+msgstr "Globale Match (g)"
 
 #, fuzzy
 msgid "golang.org"
@@ -722,6 +774,18 @@ msgstr "{0} Ping-Engine Results"
 #, fuzzy, java-format
 msgid "{0} Engine Status"
 msgstr "{0} Engine-Status"
+
+#~ msgid "Create a fiddle to share this regex"
+#~ msgstr "Erstellen Sie eine Geige, diese Regex teilen"
+
+#~ msgid "Fiddle"
+#~ msgstr "Fummeln"
+
+#~ msgid "Fiddle!"
+#~ msgstr "Fummeln"
+
+#~ msgid "Fiddle:"
+#~ msgstr "Fiddle:"
 
 #~ msgid "<a href="
 #~ msgstr "<A href ="

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RegexPlanet \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-24 20:20-0400\n"
+"POT-Creation-Date: 2012-05-13 20:54-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,6 +25,9 @@ msgstr ""
 msgid "%request.html"
 msgstr ""
 
+msgid "%share.tip.html"
+msgstr ""
+
 msgid "(current)"
 msgstr ""
 
@@ -32,6 +35,9 @@ msgid "(not available)"
 msgstr ""
 
 msgid ".Net"
+msgstr ""
+
+msgid "A quick and easy way to share regular expressions"
 msgstr ""
 
 msgid "Add"
@@ -70,6 +76,9 @@ msgstr ""
 msgid "Case-insensitive matching (IgnoreCase)"
 msgstr ""
 
+msgid "Case-insensitive matching (i)"
+msgstr ""
+
 msgid "Change language"
 msgstr ""
 
@@ -83,9 +92,6 @@ msgid "Cookbook"
 msgstr ""
 
 msgid "Cookbook:"
-msgstr ""
-
-msgid "Create a fiddle to share this regex"
 msgstr ""
 
 msgid "Credits"
@@ -142,18 +148,6 @@ msgstr ""
 msgid "Featured Recipes"
 msgstr ""
 
-msgid "Fiddle"
-msgstr ""
-
-msgid "Fiddle!"
-msgstr ""
-
-msgid "Fiddle:"
-msgstr ""
-
-msgid "Fiddles are an easy way to share regexes.  If you have a raw fiddle, enter it here:"
-msgstr ""
-
 msgid "Force canonical equivalence (CANON_EQ)"
 msgstr ""
 
@@ -186,6 +180,9 @@ msgstr ""
 
 #, java-format
 msgid "Input {0}:"
+msgstr ""
+
+msgid "Invalid share code"
 msgstr ""
 
 msgid "Java"
@@ -222,6 +219,9 @@ msgid "MSDN"
 msgstr ""
 
 msgid "MULTILINE"
+msgstr ""
+
+msgid "Make share code"
 msgstr ""
 
 msgid "Metadata"
@@ -331,6 +331,9 @@ msgstr ""
 msgid "Regexp class"
 msgstr ""
 
+msgid "Regular Expression Sharing"
+msgstr ""
+
 msgid "Regular expression:"
 msgstr ""
 
@@ -356,6 +359,21 @@ msgid "Select"
 msgstr ""
 
 msgid "Select a language"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Share Codes"
+msgstr ""
+
+msgid "Share code"
+msgstr ""
+
+msgid "Share codes are an easy way to share regexes.  If you have a share code, enter it here:"
+msgstr ""
+
+msgid "Share!"
 msgstr ""
 
 msgid "Similar"
@@ -410,6 +428,10 @@ msgstr ""
 msgid "UNICODE"
 msgstr ""
 
+#, java-format
+msgid "Unable to load share code {0}"
+msgstr ""
+
 msgid "Unicode case matching (UNICODE_CASE)"
 msgstr ""
 
@@ -450,13 +472,28 @@ msgstr ""
 msgid "You are not logged in."
 msgstr ""
 
+msgid "You are not the owner"
+msgstr ""
+
+msgid "You cannot share blank regular expressions"
+msgstr ""
+
+msgid "You created this on a different machine"
+msgstr ""
+
 msgid "You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</a> first!"
+msgstr ""
+
+msgid "Your sharing link is "
 msgstr ""
 
 msgid "^ and $ match EOL (MULTILINE)"
 msgstr ""
 
 msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (Multiline)"
+msgstr ""
+
+msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (m)"
 msgstr ""
 
 msgid "behavior details"
@@ -469,6 +506,9 @@ msgid "case-insensitive (i)"
 msgstr ""
 
 msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
+msgstr ""
+
+msgid "global - find all matches (g)"
 msgstr ""
 
 msgid "golang.org"
