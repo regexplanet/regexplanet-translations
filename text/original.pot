@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RegexPlanet \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-13 20:54-0400\n"
+"POT-Creation-Date: 2012-05-19 13:31-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,6 +83,9 @@ msgid "Change language"
 msgstr ""
 
 msgid "Coding"
+msgstr ""
+
+msgid "Compile error"
 msgstr ""
 
 msgid "Contact"
@@ -266,6 +269,9 @@ msgstr ""
 msgid "Options:"
 msgstr ""
 
+msgid "Original Expression"
+msgstr ""
+
 msgid "PCRE Functions"
 msgstr ""
 
@@ -314,6 +320,9 @@ msgstr ""
 msgid "Recipes by user"
 msgstr ""
 
+msgid "RegEx: online regular expression testing"
+msgstr ""
+
 #, java-format
 msgid "RegEx: online regular expression testing for {0}"
 msgstr ""
@@ -331,13 +340,22 @@ msgstr ""
 msgid "Regexp class"
 msgstr ""
 
+msgid "Regular Expression"
+msgstr ""
+
 msgid "Regular Expression Sharing"
+msgstr ""
+
+msgid "Regular Expression Test Page"
 msgstr ""
 
 msgid "Regular expression:"
 msgstr ""
 
 msgid "Regular expressions are an incredibly powerful tool, but can be rather tricky to get exactly right.  This is a website that I wrote so I could quickly and easily test regular expressions during development."
+msgstr ""
+
+msgid "Replacement"
 msgstr ""
 
 msgid "Replacement:"
@@ -394,10 +412,16 @@ msgstr ""
 msgid "System.Text.RegularExpressions.Regex"
 msgstr ""
 
+msgid "Target String"
+msgstr ""
+
 msgid "Terms of Service"
 msgstr ""
 
 msgid "Test"
+msgstr ""
+
+msgid "Test Results"
 msgstr ""
 
 msgid "Testing"
@@ -496,6 +520,9 @@ msgstr ""
 msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (m)"
 msgstr ""
 
+msgid "as a Java string"
+msgstr ""
+
 msgid "behavior details"
 msgstr ""
 
@@ -506,6 +533,9 @@ msgid "case-insensitive (i)"
 msgstr ""
 
 msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
+msgstr ""
+
+msgid "for Java"
 msgstr ""
 
 msgid "global - find all matches (g)"

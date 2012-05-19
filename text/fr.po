@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-13 20:54-0400\n"
+"POT-Creation-Date: 2012-05-19 13:31-0400\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Andrew Marcuse <fileformat@gmail.com>\n"
 "Language-Team: \n"
@@ -23,7 +23,7 @@ msgstr "fr-x-mtfrom-en"
 msgid "%request.html"
 msgstr "Vous ne trouvez pas ce que vous avez besoin? <a href=\"request.html\">Demander une recette</a> !"
 
-#, fuzzy, fuzzy
+#, fuzzy
 msgid "%share.tip.html"
 msgstr "Créer un partage de code à partager cette expression régulière, les options, le remplacement et toutes les entrées de test. <br/><br/> Notez que regexs partagés sont visibles à tout le monde, alors ne soyez pas quoi que ce soit une action qui est privé!"
 
@@ -98,6 +98,10 @@ msgstr "Changer de langue"
 #, fuzzy
 msgid "Coding"
 msgstr "Codage"
+
+#, fuzzy
+msgid "Compile error"
+msgstr "Erreur de compilation"
 
 #, fuzzy
 msgid "Contact"
@@ -332,6 +336,10 @@ msgid "Options:"
 msgstr "Options:"
 
 #, fuzzy
+msgid "Original Expression"
+msgstr "Expression régulière:"
+
+#, fuzzy
 msgid "PCRE Functions"
 msgstr "Fonctions PCRE"
 
@@ -395,6 +403,10 @@ msgstr "Prie recette"
 msgid "Recipes by user"
 msgstr "Prie recette"
 
+#, fuzzy
+msgid "RegEx: online regular expression testing"
+msgstr "RegEx: les tests en ligne expression régulière pour {0}"
+
 #, fuzzy, java-format
 msgid "RegEx: online regular expression testing for {0}"
 msgstr "RegEx: les tests en ligne expression régulière pour {0}"
@@ -416,8 +428,16 @@ msgid "Regexp class"
 msgstr "Regexp classe"
 
 #, fuzzy
+msgid "Regular Expression"
+msgstr "Expression régulière:"
+
+#, fuzzy
 msgid "Regular Expression Sharing"
 msgstr "Expression régulière:"
+
+#, fuzzy
+msgid "Regular Expression Test Page"
+msgstr "Test en ligne Expression régulière"
 
 #, fuzzy
 msgid "Regular expression:"
@@ -425,6 +445,10 @@ msgstr "Expression régulière:"
 
 msgid "Regular expressions are an incredibly powerful tool, but can be rather tricky to get exactly right.  This is a website that I wrote so I could quickly and easily test regular expressions during development."
 msgstr "Les expressions régulières sont un outil incroyablement puissant, mais peuvent être assez difficiles à écrire exactement comme il le faut. Ceci est un site web que j'ai écrit pour que je puisse rapidement et facilement tester des expressions régulières au cours du développement."
+
+#, fuzzy
+msgid "Replacement"
+msgstr "Remplacement:"
 
 #, fuzzy
 msgid "Replacement:"
@@ -498,12 +522,20 @@ msgid "System.Text.RegularExpressions.Regex"
 msgstr "System.Text.RegularExpressions.Regex"
 
 #, fuzzy
+msgid "Target String"
+msgstr "Target: String"
+
+#, fuzzy
 msgid "Terms of Service"
 msgstr "Conditions d'utilisation"
 
 #, fuzzy
 msgid "Test"
 msgstr "Test"
+
+#, fuzzy
+msgid "Test Results"
+msgstr "Résultats des tests"
 
 #, fuzzy
 msgid "Testing"
@@ -539,7 +571,7 @@ msgstr "Outils et services utilisés pour construire RegexPlanet"
 msgid "UNICODE"
 msgstr "UNICODE"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "Unable to load share code {0}"
 msgstr "Impossible de charger le partage de code {0}"
 
@@ -625,6 +657,10 @@ msgid "^ and $ so they match at the beginning and end, respectively, of any line
 msgstr "^ Et $ de sorte qu'ils correspondent au début et à la fin, respectivement, de n'importe quelle ligne, et pas seulement le début et la fin de la chaîne entière (Multiline)"
 
 #, fuzzy
+msgid "as a Java string"
+msgstr "comme une chaîne de Java"
+
+#, fuzzy
 msgid "behavior details"
 msgstr "détails du comportement"
 
@@ -639,6 +675,10 @@ msgstr "insensible à la casse (i)"
 #, fuzzy
 msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
 msgstr "point (.) correspond à chaque personnage au lieu de tous les caractères sauf des sauts de ligne (SingleLine)"
+
+#, fuzzy
+msgid "for Java"
+msgstr "Java"
 
 #, fuzzy
 msgid "global - find all matches (g)"
