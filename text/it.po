@@ -25,11 +25,11 @@ msgstr "it-x-mtfrom-en"
 
 #, fuzzy
 msgid "%request.html"
-msgstr "Non riesci a trovare quello che ti serve? <a href=\"request.html\">Richiedi una ricetta</a> !"
+msgstr "Non riesci a trovare quello che ti serve? <a href=\"request.html\">Fai una richiesta !</a> !"
 
 #, fuzzy
 msgid "%share.tip.html"
-msgstr "Creare un codice parti di condividere questa espressione regolare, le opzioni, la sostituzione e tutti gli ingressi di prova. <br/><br/> Si noti che regexs condivise sono visibili a tutti, in modo da non fare nulla di condivisione che è privato!"
+msgstr "Crea un codice condiviso per una sostituzione, un'opzione, un'espressione regolare. Aggiungi anche i dati test di input!<br/><br/> Da notare che le regexp condivise sono visibili a tutti, non condividere nulla di tutto ciò che deve essere privato!"
 
 #, fuzzy
 msgid "(current)"
@@ -41,7 +41,7 @@ msgstr "(Non disponibile)"
 
 #, fuzzy
 msgid ".Net"
-msgstr ". Net"
+msgstr ".Net"
 
 #, fuzzy
 msgid "A quick and easy way to share regular expressions"
@@ -53,7 +53,7 @@ msgstr "Aggiungere"
 
 #, fuzzy
 msgid "Administrator:"
-msgstr "Administrator:"
+msgstr "Amministratore:"
 
 #, fuzzy
 msgid "All"
@@ -61,7 +61,7 @@ msgstr "Tutti"
 
 #, fuzzy
 msgid "All Recipes"
-msgstr "Tutte le ricette"
+msgstr "Tutte le formule"
 
 #, fuzzy
 msgid "Allow comments in regex (COMMENTS)"
@@ -77,7 +77,7 @@ msgstr "Libreria"
 
 #, fuzzy
 msgid "Can't find the right regex recipe?  Add a comment here with all the details, including some test inputs!"
-msgstr "Non riesci a trovare la ricetta giusta regex? Aggiungi un commento qui con tutti i dettagli, inclusi alcuni ingressi di prova!"
+msgstr "Non riesci a trovare la formula giusta per la regex? Aggiungi un commento qui con tutti i dettagli, inclusi alcuni ingressi di prova!"
 
 #, fuzzy
 msgid "Cancel"
@@ -89,7 +89,7 @@ msgstr "Case insensitive (CASE_INSENSITIVE)"
 
 #, fuzzy
 msgid "Case insensitive matching (IGNORECASE)"
-msgstr "Corrispondenza tra maiuscole e minuscole (IGNORECASE)"
+msgstr "Nessuna corrispondenza tra maiuscole e minuscole (IGNORECASE)"
 
 #, fuzzy
 msgid "Case-insensitive matching (IgnoreCase)"
@@ -113,11 +113,11 @@ msgstr "Errore di compilazione"
 
 #, fuzzy
 msgid "Contact"
-msgstr "Contattare"
+msgstr "Contatta"
 
 #, fuzzy
 msgid "Cookbook"
-msgstr "Ricettario"
+msgstr "Cookbook"
 
 #, fuzzy
 msgid "Cookbook:"
@@ -137,7 +137,7 @@ msgstr "DOTALL"
 
 #, fuzzy
 msgid "Debugging Info"
-msgstr "Debug Info"
+msgstr "Debugging Info"
 
 #, fuzzy
 msgid "Description"
@@ -149,15 +149,15 @@ msgstr "Design & Grafica"
 
 #, fuzzy
 msgid "Dot matches line terminator (DOTALL)"
-msgstr "Dot partite di terminazione di linea (DOTALL)"
+msgstr "Considera i punti come terminazione di linea (DOTALL)"
 
 #, fuzzy
 msgid "ECMAScript-compliant behavior. This value can be used only in conjunction with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
-msgstr "ECMAScript comportamento conforme. Questo valore può essere usato solo in combinazione con i valori IgnoreCase, Multiline e compilato. (ECMAScript)"
+msgstr "Comportamento conforme a ECMAScript. Questo parametro può essere usato solo in combinazione con i valori IgnoreCase, Multiline e Compiled. (ECMAScript)"
 
 #, fuzzy
 msgid "Eliminate unescaped white space from the pattern and enable comments marked with # (IgnorePatternWhitespace)"
-msgstr "Eliminare escape spazio bianco dal modello e attivare i commenti contrassegnati con # (IgnorePatternWhitespace)"
+msgstr "Elimina gli spazi unescaped dal modello e attiva i commenti contrassegnati con # (IgnorePatternWhitespace)"
 
 #, fuzzy
 msgid "Email:"
@@ -177,7 +177,7 @@ msgstr "Erlang"
 
 #, fuzzy
 msgid "Expression to test"
-msgstr "Espressione di testare"
+msgstr "Espressione da testare"
 
 #, fuzzy
 msgid "Extended with whitespace and comments (x)"
@@ -193,15 +193,15 @@ msgstr "In primo piano"
 
 #, fuzzy
 msgid "Featured Recipes"
-msgstr "Ricette in vetrina"
+msgstr "Espressioni in primo piano"
 
 #, fuzzy
 msgid "Force canonical equivalence (CANON_EQ)"
-msgstr "Forza canonica di equivalenza (CANON_EQ)"
+msgstr "Forza l'equivalenza canonica(CANON_EQ)"
 
 #, fuzzy
 msgid "Fork"
-msgstr "Forcella"
+msgstr "Alternative"
 
 #, fuzzy
 msgid "Frequently Asked Questions"
@@ -209,15 +209,15 @@ msgstr "Domande frequenti"
 
 #, fuzzy
 msgid "Frequenty Asked Questions"
-msgstr "Frequenty Domande"
+msgstr "Domande frequenti"
 
 #, fuzzy
 msgid "Global match (g)"
-msgstr "Partita globale (g)"
+msgstr "Match globale (g)"
 
 #, fuzzy
 msgid "Go"
-msgstr "Andare"
+msgstr "Vai"
 
 #, fuzzy
 msgid "History"
@@ -241,11 +241,11 @@ msgstr "Ingresso {0}:"
 
 #, fuzzy
 msgid "Invalid share code"
-msgstr "Parti di codice non valido"
+msgstr "Codice condiviso non valido"
 
 #, fuzzy
 msgid "Java"
-msgstr "Giava"
+msgstr "Java"
 
 #, fuzzy
 msgid "JavaDoc"
@@ -257,15 +257,15 @@ msgstr "Offerte di lavoro"
 
 #, fuzzy
 msgid "Keep current position (c)"
-msgstr "Mantenere la posizione corrente (c)"
+msgstr "Mantieni la posizione corrente (c)"
 
 #, fuzzy
 msgid "Known Regex Engines"
-msgstr "Motori Regex noti"
+msgstr "Motori noti per espressioni regolari"
 
 #, fuzzy
 msgid "Known Regular Expression Engines"
-msgstr "Noti motori di espressioni regolari"
+msgstr "Motori noti per espressioni regolari"
 
 #, fuzzy
 msgid "LOCALE"
@@ -289,19 +289,19 @@ msgstr "MSDN"
 
 #, fuzzy
 msgid "MULTILINE"
-msgstr "MULTILINE"
+msgstr "MULTILINEA"
 
 #, fuzzy
 msgid "Make share code"
-msgstr "Rendere il codice parti"
+msgstr "Crea codice condiviso"
 
 #, fuzzy
 msgid "Metadata"
-msgstr "Metadata"
+msgstr "Metadati"
 
 #, fuzzy
 msgid "Mine"
-msgstr "Miniera"
+msgstr "Le mie espressioni"
 
 #, fuzzy
 msgid "More Inputs"
@@ -309,11 +309,11 @@ msgstr "Altri ingressi"
 
 #, fuzzy
 msgid "My Recipes"
-msgstr "Le mie ricette"
+msgstr "Le mie formule"
 
 #, fuzzy
 msgid "Newlines are just another character (MULTILINE)"
-msgstr "Newlines sono solo un altro carattere (multilinea)"
+msgstr "Considera i Newlines come un altro normale carattere (multilinea)"
 
 #, fuzzy
 msgid "Nickname:"
@@ -337,15 +337,15 @@ msgstr "Un'ultima cosa"
 
 #, fuzzy
 msgid "Online Regular Expression Testing"
-msgstr "Test online Regular Expression"
+msgstr "Testa l'espressione regolare online"
 
 #, fuzzy
 msgid "Online Testing"
-msgstr "Test on-line"
+msgstr "Online Testing"
 
 #, fuzzy
 msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
-msgstr "In considerazione solo '\\ n' come terminatore di linea (UNIX_LINES)"
+msgstr "Considera solamente '\\ n' come terminatore di linea (UNIX_LINES)"
 
 #, fuzzy
 msgid "Options:"
@@ -369,7 +369,7 @@ msgstr "PHP"
 
 #, fuzzy
 msgid "Package regexp"
-msgstr "Pacchetto regexp"
+msgstr "Package regexp"
 
 #, fuzzy
 msgid "Perl"
@@ -377,7 +377,7 @@ msgstr "Perl"
 
 #, fuzzy
 msgid "Pick which programming language you are using:"
-msgstr "Scegliere quale linguaggio di programmazione si sta utilizzando:"
+msgstr "Scegli quale linguaggio di programmazione stai utilizzando:"
 
 #, fuzzy
 msgid "Ping"
@@ -385,7 +385,7 @@ msgstr "Ping"
 
 #, fuzzy
 msgid "Preserve matched strings (p)"
-msgstr "Conserva stringhe corrispondenti (p)"
+msgstr "Conserva le stringhe che hanno fatto match (p)"
 
 #, fuzzy
 msgid "Previous version"
@@ -393,47 +393,47 @@ msgstr "Versione precedente"
 
 #, fuzzy
 msgid "Privacy Policy"
-msgstr "Privacy Policy"
+msgstr "Regole di gestione della privacy"
 
 #, fuzzy
 msgid "Programming Ruby"
-msgstr "Di programmazione Ruby"
+msgstr "Programmare in Ruby"
 
 #, fuzzy
 msgid "Python"
-msgstr "Pitone"
+msgstr "Python"
 
 #, fuzzy
 msgid "Recent"
-msgstr "Recente"
+msgstr "Recenti"
 
 #, fuzzy
 msgid "Recent Recipes"
-msgstr "Ricette recenti"
+msgstr "Formule recenti"
 
 #, fuzzy
 msgid "Recipe Requests"
-msgstr "Ricetta Richieste"
+msgstr "Richieste per formule"
 
 #, fuzzy
 msgid "Recipes by user"
-msgstr "Ricette per utente"
+msgstr "Formule per utente"
 
 #, fuzzy
 msgid "RegEx: online regular expression testing"
-msgstr "RegEx: online test delle espressioni regolari"
+msgstr "RegEx: test online delle espressioni regolari"
 
 #, java-format, fuzzy
 msgid "RegEx: online regular expression testing for {0}"
-msgstr "RegEx: online test delle espressioni regolari per {0}"
+msgstr "RegEx: test online delle espressioni regolari per {0}"
 
 #, java-format, fuzzy
 msgid "RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
-msgstr "RegexPlanet - Online Regular Expression (Regex) Testing Cookbook e per: {0}"
+msgstr "RegexPlanet - Test online delle espressioni regolari (RegExp) ed elenco delle formule per: {0}"
 
 #, fuzzy
 msgid "RegexPlanet Resources"
-msgstr "RegexPlanet Risorse"
+msgstr "Risorse RegexPlanet"
 
 #, fuzzy
 msgid "Regexp Ruby-Doc"
@@ -441,19 +441,19 @@ msgstr "Regexp Ruby-Doc"
 
 #, fuzzy
 msgid "Regexp class"
-msgstr "Regexp classe"
+msgstr "Regexp class"
 
 #, fuzzy
 msgid "Regular Expression"
-msgstr "Regular Expression"
+msgstr "Espressione Regolare"
 
 #, fuzzy
 msgid "Regular Expression Sharing"
-msgstr "Condivisione Regular Expression"
+msgstr "Condivisione di espressioni regolari"
 
 #, fuzzy
 msgid "Regular Expression Test Page"
-msgstr "Regular Expression Pagina di prova"
+msgstr "Pagina di test per le espressioni regolari"
 
 #, fuzzy
 msgid "Regular expression:"
@@ -461,7 +461,7 @@ msgstr "Espressione regolare:"
 
 #, fuzzy
 msgid "Regular expressions are an incredibly powerful tool, but can be rather tricky to get exactly right.  This is a website that I wrote so I could quickly and easily test regular expressions during development."
-msgstr "Le espressioni regolari sono uno strumento incredibilmente potente, ma può essere piuttosto difficile da ottenere esattamente a destra. Questo è un sito che ho scritto in modo da poter rapidamente e facilmente testare le espressioni regolari durante lo sviluppo."
+msgstr "Le espressioni regolari sono uno strumento incredibilmente potente, ma possono essere piuttosto difficili da controllare. Questo sito è stato scritto per poter testare rapidamente e facilmente le espressioni regolari durante lo sviluppo."
 
 #, fuzzy
 msgid "Replacement"
@@ -473,15 +473,15 @@ msgstr "Sostituzione:"
 
 #, fuzzy
 msgid "Reset"
-msgstr "Azzerare"
+msgstr "Reset"
 
 #, fuzzy
 msgid "Ruby"
-msgstr "Rubino"
+msgstr "Ruby"
 
 #, fuzzy
 msgid "Running"
-msgstr "Corsa"
+msgstr "In esecuzione"
 
 #, fuzzy
 msgid "Security Information"
@@ -489,7 +489,7 @@ msgstr "La sicurezza delle informazioni"
 
 #, fuzzy
 msgid "Select"
-msgstr "Selezionare"
+msgstr "Seleziona"
 
 #, fuzzy
 msgid "Select a language"
@@ -505,15 +505,15 @@ msgstr "Condividi Codici"
 
 #, fuzzy
 msgid "Share code"
-msgstr "Code share"
+msgstr "Condividi Codice"
 
 #, fuzzy
 msgid "Share codes are an easy way to share regexes.  If you have a share code, enter it here:"
-msgstr "Condividere i codici sono un modo semplice per condividere regexes. Se hai un codice di condivisione, inseriscilo qui:"
+msgstr "Condividere i codici rappresenta un modo semplice per condividere le espressioni regolari. Se hai un codice di condivisione, inseriscilo qui:"
 
 #, fuzzy
 msgid "Share!"
-msgstr "Share!"
+msgstr "Condividi!"
 
 #, fuzzy
 msgid "Similar"
@@ -525,11 +525,11 @@ msgstr "Stato"
 
 #, fuzzy
 msgid "Support"
-msgstr "Sostenere"
+msgstr "Sostenimi"
 
 #, fuzzy
 msgid "Support Links"
-msgstr "Supporto Links"
+msgstr "Links di supporto"
 
 #, fuzzy
 msgid "Syntax"
@@ -541,7 +541,7 @@ msgstr "System.Text.RegularExpressions.Regex"
 
 #, fuzzy
 msgid "Target String"
-msgstr "Obiettivo String"
+msgstr "Stringa Target"
 
 #, fuzzy
 msgid "Terms of Service"
@@ -561,11 +561,11 @@ msgstr "Testing"
 
 #, fuzzy
 msgid "The Regex Cookbook"
-msgstr "La Regex Cookbook"
+msgstr "Elenco delle espressioni regolari (CookBook)"
 
 #, fuzzy
 msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
-msgstr "La versione originale era basata su Java e non richiede un browser abilitato per JavaScript. Non c'è bisogno di usarlo se le si lavora sopra Java per voi, ma un sacco di links passare direttamente ad esso:"
+msgstr "La versione originale era basata su Java e non richiedeva un browser abilitato per JavaScript. Non c'è bisogno di usarla se la versione Java funziona, ma un sacco di links puntano direttamente ad essa:"
 
 #, java-format, fuzzy
 msgid "The {0} engine is still in beta."
@@ -573,7 +573,7 @@ msgstr "Il {0} motore è ancora in beta."
 
 #, fuzzy
 msgid "This will be visible to the public if you share any of your recipes."
-msgstr "Questo sarà visibile al pubblico, se si condividono le tue ricette."
+msgstr "Questo sarà visibile al pubblico, se condividi qualunque formula."
 
 #, fuzzy
 msgid "This will not be published or shared."
@@ -581,11 +581,11 @@ msgstr "Questo non sarà pubblicato o condiviso."
 
 #, fuzzy
 msgid "To Do"
-msgstr "To Do"
+msgstr "Da fare"
 
 #, fuzzy
 msgid "Tools and services used to build RegexPlanet"
-msgstr "Strumenti e servizi utilizzati per costruire RegexPlanet"
+msgstr "Strumenti e servizi utilizzati per la costruzione di RegexPlanet"
 
 #, fuzzy
 msgid "UNICODE"
@@ -593,15 +593,15 @@ msgstr "UNICODE"
 
 #, java-format, fuzzy
 msgid "Unable to load share code {0}"
-msgstr "Impossibile caricare il codice parti {0}"
+msgstr "Impossibile caricare il codice condiviso {0}"
 
 #, fuzzy
 msgid "Unicode case matching (UNICODE_CASE)"
-msgstr "Caso di corrispondenza Unicode (UNICODE_CASE)"
+msgstr "Corrispondenza Unicode (UNICODE_CASE)"
 
 #, fuzzy
 msgid "Update"
-msgstr "Aggiornare"
+msgstr "Aggiorna"
 
 #, fuzzy
 msgid "Use ASCII charset rules (a)"
@@ -617,11 +617,11 @@ msgstr "Utilizzare le regole charset di default (d)"
 
 #, fuzzy
 msgid "Use locale charset rules (l)"
-msgstr "Utilizzare le regole charset locale (l)"
+msgstr "Utilizzare le regole del set di caratteri locale (charset) (l)"
 
 #, fuzzy
 msgid "Use the cookbook to save and share regex recipes.<br/><br/>Note: while you can view anonymously, you must be logged in to save."
-msgstr "Utilizzare il libro di cucina per salvare e condividere ricette regex <br/>. Nota: mentre è possibile visualizzare in forma anonima, devi essere registrato per salvare."
+msgstr "Utilizza il cookbook per salvare e condividere formule regex <br/>. Nota: mentre è possibile visualizzare le formule in forma anonima, devi essere registrato per salvarle."
 
 #, fuzzy
 msgid "VERBOSE"
@@ -629,7 +629,7 @@ msgstr "VERBOSE"
 
 #, fuzzy
 msgid "View Recipe"
-msgstr "Visualizza Ricetta"
+msgstr "Visualizza Formula"
 
 #, fuzzy
 msgid "Yes"
@@ -641,7 +641,7 @@ msgstr "Sei già loggato"
 
 #, java-format, fuzzy
 msgid "You are logged in as {0}"
-msgstr "Sei stato registrato come {0}"
+msgstr "Sei loggato come {0}"
 
 #, fuzzy
 msgid "You are not logged in."
@@ -649,35 +649,35 @@ msgstr "Non sei loggato"
 
 #, fuzzy
 msgid "You are not the owner"
-msgstr "Tu non sei il proprietario"
+msgstr "Non sei il proprietario"
 
 #, fuzzy
 msgid "You cannot share blank regular expressions"
-msgstr "Non è possibile condividere vuote espressioni regolari"
+msgstr "Non è possibile condividere espressioni regolari vuote"
 
 #, fuzzy
 msgid "You created this on a different machine"
-msgstr "È stato creato questo su una macchina diversa"
+msgstr "Questo è stato creato da te utilizzando macchina diversa"
 
 #, fuzzy
 msgid "You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</a> first!"
-msgstr "Devi <a login href=\"/security/login.html?next=/cookbook/my.html\"> </ a> prima!"
+msgstr "Devi <a href=\"/security/login.html?next=/cookbook/my.html\"> fare login </ a> prima!"
 
 #, fuzzy
 msgid "Your sharing link is "
-msgstr "Il tuo link condivisione è"
+msgstr "Il tuo link per la condivisione è"
 
 #, fuzzy
 msgid "^ and $ match EOL (MULTILINE)"
-msgstr "^ E $ corrispondono EOL (multilinea)"
+msgstr "^ E $ corrispondono a EOL (multilinea)"
 
 #, fuzzy
 msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (Multiline)"
-msgstr "^ E $ in modo che corrispondano all'inizio e alla fine, rispettivamente, di qualsiasi linea, e non solo all'inizio e alla fine della stringa intera (multilinea)"
+msgstr "^ E $ corrispondono all'inizio e alla fine di qualsiasi linea, e non solo all'inizio e alla fine del testo (multilinea)"
 
 #, fuzzy
 msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (m)"
-msgstr "^ E $ in modo che corrispondano all'inizio e alla fine, rispettivamente, di qualsiasi linea, e non solo all'inizio e alla fine della stringa completa (m)"
+msgstr "^ E $ corrispondono all'inizio e alla fine di qualsiasi linea, e non solo all'inizio e alla fine del testo (m)"
 
 #, fuzzy
 msgid "as a Java string"
@@ -685,11 +685,11 @@ msgstr "come una stringa Java"
 
 #, fuzzy
 msgid "behavior details"
-msgstr "comportamento dettagli"
+msgstr "dettagli sul comportamento"
 
 #, fuzzy
 msgid "best practices"
-msgstr "le migliori pratiche"
+msgstr "le migliori tecniche"
 
 #, fuzzy
 msgid "case-insensitive (i)"
@@ -697,7 +697,7 @@ msgstr "case-insensitive (i)"
 
 #, fuzzy
 msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
-msgstr "punto (.) corrisponde ogni carattere invece che ogni carattere tranne newline (Singleline)"
+msgstr "il punto (.) fa match ad ogni carattere anziché ogni carattere tranne newline (Singleline)"
 
 #, fuzzy
 msgid "for Java"
@@ -705,7 +705,7 @@ msgstr "per Java"
 
 #, fuzzy
 msgid "global - find all matches (g)"
-msgstr "mondiale - trovare tutte le partite (g)"
+msgstr "globale - trova tutti i match (g)"
 
 #, fuzzy
 msgid "golang.org"
@@ -713,15 +713,15 @@ msgstr "golang.org"
 
 #, fuzzy
 msgid "howto"
-msgstr "howto"
+msgstr "come fare"
 
 #, fuzzy
 msgid "i - Case insensitive (PCRE_CASELESS)"
-msgstr "i - case insensitive (PCRE_CASELESS)"
+msgstr "i - Case insensitive (PCRE_CASELESS)"
 
 #, fuzzy
 msgid "ignore cultural differences in language (CultureInvariant)"
-msgstr "ignorare le differenze culturali nel linguaggio (CultureInvariant)"
+msgstr "ignora le differenze culturali nel linguaggio (CultureInvariant)"
 
 #, fuzzy
 msgid "java.util.regex.Pattern"
@@ -729,11 +729,11 @@ msgstr "java.util.regex.Pattern"
 
 #, fuzzy
 msgid "login"
-msgstr "accesso"
+msgstr "login"
 
 #, fuzzy
 msgid "m - ^ and $ match EOL (PCRE_MULTILINE)"
-msgstr "m - ^ e $ partita EOL (PCRE_MULTILINE)"
+msgstr "m - ^ e $ corrispondono a EOL (PCRE_MULTILINE)"
 
 #, fuzzy
 msgid "metadata"
@@ -745,7 +745,7 @@ msgstr "multiline (m)"
 
 #, fuzzy
 msgid "only explicitly named or numbered groups of the form (?<name>…) are valid captures (ExplicitCapture)"
-msgstr "solo gruppi esplicitamente nominati o numerati della forma (? <name> ...) sono validi cattura (ExplicitCapture)"
+msgstr "sono validi solo gruppi esplicitamente nominati o numerati della forma (? <name> ...) (ExplicitCapture)"
 
 #, fuzzy
 msgid "overview"
@@ -765,7 +765,7 @@ msgstr "re man page"
 
 #, fuzzy
 msgid "re module"
-msgstr "re il modulo"
+msgstr "re module"
 
 #, fuzzy
 msgid "re pyDoc"
@@ -773,15 +773,15 @@ msgstr "re pydoc"
 
 #, fuzzy
 msgid "s - Dot matches line terminator (PCRE_DOTALL)"
-msgstr "s - Dot partite di terminazione di linea (PCRE_DOTALL)"
+msgstr "s - I punti fanno match anche per i terminatori di linea (PCRE_DOTALL)"
 
 #, fuzzy
 msgid "search will be from right to left instead of from left to right (RightToLeft)"
-msgstr "ricerca sarà da destra a sinistra invece che da sinistra a destra (RightToLeft)"
+msgstr "la ricerca sarà da destra a sinistra invece che da sinistra a destra (RightToLeft)"
 
 #, fuzzy
 msgid "single line (s)"
-msgstr "singola linea (s)"
+msgstr "linea singola (e)"
 
 #, fuzzy
 msgid "source"
@@ -789,19 +789,19 @@ msgstr "fonte"
 
 #, fuzzy
 msgid "status"
-msgstr "status"
+msgstr "stato"
 
 #, fuzzy
 msgid "u - Pattern strings are treated as UTF-8 (PCRE8)"
-msgstr "u stringhe di ricerca sono considerate come UTF-8 (PCRE8)"
+msgstr "u - le stringhe di ricerca sono considerate come UTF-8 (PCRE8)"
 
 #, fuzzy
 msgid "uptime"
-msgstr "uptime"
+msgstr "tempo operativo (uptime)"
 
 #, fuzzy
 msgid "x - Allow comments in regex (PCRE_EXTENDED)"
-msgstr "x - Permettere commenti a regex (PCRE_EXTENDED)"
+msgstr "x - Permetti commenti in regex (PCRE_EXTENDED)"
 
 #, java-format, fuzzy
 msgid "{0} (beta)"
@@ -813,12 +813,12 @@ msgstr "{0} ({1})"
 
 #, java-format, fuzzy
 msgid "{0} Engine Metadata"
-msgstr "{0} Metadata Engine"
+msgstr "{0} Meta dati per l'Engine"
 
 #, java-format, fuzzy
 msgid "{0} Engine Ping Results"
-msgstr "{0} Motore Ping Results"
+msgstr "{0} Risultati del Ping sull'Engine"
 
 #, java-format, fuzzy
 msgid "{0} Engine Status"
-msgstr "{0} Engine Stato"
+msgstr "{0} Stato Engine"
