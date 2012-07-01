@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-19 13:31-0400\n"
+"POT-Creation-Date: 2012-06-30 20:14-0400\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -60,6 +60,10 @@ msgid "Allow comments in regex (COMMENTS)"
 msgstr "Kommentare erlauben in regex (Kommentare)"
 
 #, fuzzy
+msgid "Allow comments in regex [COMMENTS] (x flag)"
+msgstr "Kommentare erlauben in regex (Kommentare)"
+
+#, fuzzy
 msgid "Beta"
 msgstr "Beta"
 
@@ -77,6 +81,10 @@ msgstr "Stornieren"
 
 #, fuzzy
 msgid "Case insensitive (CASE_INSENSITIVE)"
+msgstr "Groß-und Kleinschreibung (case_insensitive)"
+
+#, fuzzy
+msgid "Case insensitive [CASE_INSENSITIVE] (i flag)"
 msgstr "Groß-und Kleinschreibung (case_insensitive)"
 
 #, fuzzy
@@ -140,7 +148,15 @@ msgid "Design & Graphics"
 msgstr "Design & Grafik"
 
 #, fuzzy
+msgid "Dot matches all (s)"
+msgstr "Punkt passt alle (s)"
+
+#, fuzzy
 msgid "Dot matches line terminator (DOTALL)"
+msgstr "Punkt entspricht Leitungsabschluss (dotall)"
+
+#, fuzzy
+msgid "Dot matches line terminator [DOTALL] (s flag)"
 msgstr "Punkt entspricht Leitungsabschluss (dotall)"
 
 #, fuzzy
@@ -168,6 +184,10 @@ msgid "Erlang"
 msgstr "Erlang"
 
 #, fuzzy
+msgid "Explicit capture (n)"
+msgstr "Explizite Aufnahme (n)"
+
+#, fuzzy
 msgid "Expression to test"
 msgstr "Expression zu testen"
 
@@ -192,8 +212,16 @@ msgid "Force canonical equivalence (CANON_EQ)"
 msgstr "Force-kanonische Äquivalenz (CANON_EQ)"
 
 #, fuzzy
+msgid "Force canonical equivalence [CANON_EQ]"
+msgstr "Force-kanonische Äquivalenz (CANON_EQ)"
+
+#, fuzzy
 msgid "Fork"
 msgstr "Gabel"
+
+#, fuzzy
+msgid "Free-spacing and line comments (x)"
+msgstr "Erweitert mit Leerzeichen und Kommentare (x)"
 
 #, fuzzy
 msgid "Frequently Asked Questions"
@@ -288,6 +316,10 @@ msgid "Make share code"
 msgstr "Machen Sie Aktien-Code"
 
 #, fuzzy
+msgid "Matches must start at lastIndex (y)"
+msgstr "Spiele müssen lastIndex starten (y)"
+
+#, fuzzy
 msgid "Metadata"
 msgstr "Metadata"
 
@@ -298,6 +330,10 @@ msgstr "Bergwerk"
 #, fuzzy
 msgid "More Inputs"
 msgstr "Weitere Eingänge"
+
+#, fuzzy
+msgid "More..."
+msgstr "Mehr ..."
 
 #, fuzzy
 msgid "My Recipes"
@@ -335,8 +371,16 @@ msgstr "Online Regular Expression Testing"
 msgid "Online Testing"
 msgstr "Testing"
 
+#, fuzzy, java-format
+msgid "Online testing with the {0} engine is still in beta."
+msgstr "Die {0} Motor noch im Beta Stadium."
+
 #, fuzzy
 msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
+msgstr "Nur betrachten '\\ n' als Leitungsabschluss (UNIX_LINES)"
+
+#, fuzzy
+msgid "Only consider '\\n' as line terminator [UNIX_LINES]"
 msgstr "Nur betrachten '\\ n' als Leitungsabschluss (UNIX_LINES)"
 
 #, fuzzy
@@ -404,6 +448,10 @@ msgid "Recent Recipes"
 msgstr "Rezept anzeigen"
 
 #, fuzzy
+msgid "Recently Bookmarked"
+msgstr "Kürzlich als Lesezeichen gesetzt"
+
+#, fuzzy
 msgid "Recipe Requests"
 msgstr "Rezept-Gesuche"
 
@@ -416,16 +464,16 @@ msgid "RegEx: online regular expression testing"
 msgstr "RegEx: Online-Tests regulären Ausdruck für {0}"
 
 #, fuzzy, java-format
-msgid "RegEx: online regular expression testing for {0}"
-msgstr "RegEx: Online-Tests regulären Ausdruck für {0}"
-
-#, fuzzy, java-format
 msgid "RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
 msgstr "RegexPlanet - Online Regulärer Ausdruck (Regex) Prüf-und Kochbuch für: {0}"
 
 #, fuzzy
 msgid "RegexPlanet Resources"
 msgstr "RegexPlanet Ressourcen"
+
+#, fuzzy, java-format
+msgid "RegexPlanet: online regular expression testing for {0}"
+msgstr "RegEx: Online-Tests regulären Ausdruck für {0}"
 
 #, fuzzy
 msgid "Regexp Ruby-Doc"
@@ -559,10 +607,6 @@ msgstr "Kochbuch"
 msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
 msgstr "Die Originalversion wurde Java-basierte und nicht verlangen, einen JavaScript-fähigen Browser. Kein Grund, es zu benutzen, wenn die Java übereinander für Sie arbeitet, aber eine Menge Links direkt zu es:"
 
-#, fuzzy, java-format
-msgid "The {0} engine is still in beta."
-msgstr "Die {0} Motor noch im Beta Stadium."
-
 #, fuzzy
 msgid "This will be visible to the public if you share any of your recipes."
 msgstr "Dies wird für die Öffentlichkeit sichtbar, wenn Sie eines Ihrer Rezepte zu teilen."
@@ -580,6 +624,10 @@ msgid "Tools and services used to build RegexPlanet"
 msgstr "Werkzeuge und Dienstleistungen verwendet werden, um RegexPlanet bauen"
 
 #, fuzzy
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#, fuzzy
 msgid "UNICODE"
 msgstr "UNICODE"
 
@@ -589,6 +637,10 @@ msgstr "Kann Aktien-Code zu laden {0}"
 
 #, fuzzy
 msgid "Unicode case matching (UNICODE_CASE)"
+msgstr "Unicode-Fall-Anpassung (UNICODE_CASE)"
+
+#, fuzzy
+msgid "Unicode case matching [UNICODE_CASE]"
 msgstr "Unicode-Fall-Anpassung (UNICODE_CASE)"
 
 #, fuzzy
@@ -661,6 +713,10 @@ msgstr "Ihr Link-Sharing ist"
 
 #, fuzzy
 msgid "^ and $ match EOL (MULTILINE)"
+msgstr "^ Und $ EOL (MULTILINE)"
+
+#, fuzzy
+msgid "^ and $ match EOL [MULTILINE] (m flag)"
 msgstr "^ Und $ EOL (MULTILINE)"
 
 #, fuzzy

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RegexPlanet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-19 13:31-0400\n"
+"POT-Creation-Date: 2012-06-30 20:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -68,6 +68,10 @@ msgid "Allow comments in regex (COMMENTS)"
 msgstr "Consenti commenti in regex (Commenti)"
 
 #, fuzzy
+msgid "Allow comments in regex [COMMENTS] (x flag)"
+msgstr "Consenti commenti in regex (Commenti)"
+
+#, fuzzy
 msgid "Beta"
 msgstr "Beta"
 
@@ -85,6 +89,10 @@ msgstr "Annullare"
 
 #, fuzzy
 msgid "Case insensitive (CASE_INSENSITIVE)"
+msgstr "Case insensitive (CASE_INSENSITIVE)"
+
+#, fuzzy
+msgid "Case insensitive [CASE_INSENSITIVE] (i flag)"
 msgstr "Case insensitive (CASE_INSENSITIVE)"
 
 #, fuzzy
@@ -148,7 +156,15 @@ msgid "Design & Graphics"
 msgstr "Design & Grafica"
 
 #, fuzzy
+msgid "Dot matches all (s)"
+msgstr "Dot corrisponde a tutti (s)"
+
+#, fuzzy
 msgid "Dot matches line terminator (DOTALL)"
+msgstr "Considera i punti come terminazione di linea (DOTALL)"
+
+#, fuzzy
+msgid "Dot matches line terminator [DOTALL] (s flag)"
 msgstr "Considera i punti come terminazione di linea (DOTALL)"
 
 #, fuzzy
@@ -176,6 +192,10 @@ msgid "Erlang"
 msgstr "Erlang"
 
 #, fuzzy
+msgid "Explicit capture (n)"
+msgstr "Explicit cattura (n)"
+
+#, fuzzy
 msgid "Expression to test"
 msgstr "Espressione da testare"
 
@@ -200,8 +220,16 @@ msgid "Force canonical equivalence (CANON_EQ)"
 msgstr "Forza l'equivalenza canonica(CANON_EQ)"
 
 #, fuzzy
+msgid "Force canonical equivalence [CANON_EQ]"
+msgstr "Forza l'equivalenza canonica(CANON_EQ)"
+
+#, fuzzy
 msgid "Fork"
 msgstr "Alternative"
+
+#, fuzzy
+msgid "Free-spacing and line comments (x)"
+msgstr "Versione estesa con spazi e commenti (x)"
 
 #, fuzzy
 msgid "Frequently Asked Questions"
@@ -235,7 +263,7 @@ msgstr "IGNORECASE"
 msgid "Ignore whitespace in the regular expression (EXTENDED)"
 msgstr "Ignora gli spazi bianchi nelle espressioni regolari (EXTENDED)"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "Input {0}:"
 msgstr "Ingresso {0}:"
 
@@ -296,6 +324,10 @@ msgid "Make share code"
 msgstr "Crea codice condiviso"
 
 #, fuzzy
+msgid "Matches must start at lastIndex (y)"
+msgstr "Partite deve iniziare a lastIndex (y)"
+
+#, fuzzy
 msgid "Metadata"
 msgstr "Metadati"
 
@@ -306,6 +338,10 @@ msgstr "Le mie espressioni"
 #, fuzzy
 msgid "More Inputs"
 msgstr "Altri ingressi"
+
+#, fuzzy
+msgid "More..."
+msgstr "Maggiori informazioni ..."
 
 #, fuzzy
 msgid "My Recipes"
@@ -343,8 +379,16 @@ msgstr "Testa l'espressione regolare online"
 msgid "Online Testing"
 msgstr "Online Testing"
 
+#, fuzzy, java-format
+msgid "Online testing with the {0} engine is still in beta."
+msgstr "Il {0} motore è ancora in beta."
+
 #, fuzzy
 msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
+msgstr "Considera solamente '\\ n' come terminatore di linea (UNIX_LINES)"
+
+#, fuzzy
+msgid "Only consider '\\n' as line terminator [UNIX_LINES]"
 msgstr "Considera solamente '\\ n' come terminatore di linea (UNIX_LINES)"
 
 #, fuzzy
@@ -412,6 +456,10 @@ msgid "Recent Recipes"
 msgstr "Formule recenti"
 
 #, fuzzy
+msgid "Recently Bookmarked"
+msgstr "Recentemente Bookmarked"
+
+#, fuzzy
 msgid "Recipe Requests"
 msgstr "Richieste per formule"
 
@@ -423,17 +471,17 @@ msgstr "Formule per utente"
 msgid "RegEx: online regular expression testing"
 msgstr "RegEx: test online delle espressioni regolari"
 
-#, java-format, fuzzy
-msgid "RegEx: online regular expression testing for {0}"
-msgstr "RegEx: test online delle espressioni regolari per {0}"
-
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
 msgstr "RegexPlanet - Test online delle espressioni regolari (RegExp) ed elenco delle formule per: {0}"
 
 #, fuzzy
 msgid "RegexPlanet Resources"
 msgstr "Risorse RegexPlanet"
+
+#, fuzzy, java-format
+msgid "RegexPlanet: online regular expression testing for {0}"
+msgstr "RegEx: test online delle espressioni regolari per {0}"
 
 #, fuzzy
 msgid "Regexp Ruby-Doc"
@@ -567,10 +615,6 @@ msgstr "Elenco delle espressioni regolari (CookBook)"
 msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
 msgstr "La versione originale era basata su Java e non richiedeva un browser abilitato per JavaScript. Non c'è bisogno di usarla se la versione Java funziona, ma un sacco di links puntano direttamente ad essa:"
 
-#, java-format, fuzzy
-msgid "The {0} engine is still in beta."
-msgstr "Il {0} motore è ancora in beta."
-
 #, fuzzy
 msgid "This will be visible to the public if you share any of your recipes."
 msgstr "Questo sarà visibile al pubblico, se condividi qualunque formula."
@@ -588,15 +632,23 @@ msgid "Tools and services used to build RegexPlanet"
 msgstr "Strumenti e servizi utilizzati per la costruzione di RegexPlanet"
 
 #, fuzzy
+msgid "Translations"
+msgstr "Traduzioni"
+
+#, fuzzy
 msgid "UNICODE"
 msgstr "UNICODE"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "Unable to load share code {0}"
 msgstr "Impossibile caricare il codice condiviso {0}"
 
 #, fuzzy
 msgid "Unicode case matching (UNICODE_CASE)"
+msgstr "Corrispondenza Unicode (UNICODE_CASE)"
+
+#, fuzzy
+msgid "Unicode case matching [UNICODE_CASE]"
 msgstr "Corrispondenza Unicode (UNICODE_CASE)"
 
 #, fuzzy
@@ -639,7 +691,7 @@ msgstr "Sì"
 msgid "You are already logged in."
 msgstr "Sei già loggato"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "You are logged in as {0}"
 msgstr "Sei loggato come {0}"
 
@@ -669,6 +721,10 @@ msgstr "Il tuo link per la condivisione è"
 
 #, fuzzy
 msgid "^ and $ match EOL (MULTILINE)"
+msgstr "^ E $ corrispondono a EOL (multilinea)"
+
+#, fuzzy
+msgid "^ and $ match EOL [MULTILINE] (m flag)"
 msgstr "^ E $ corrispondono a EOL (multilinea)"
 
 #, fuzzy
@@ -803,22 +859,22 @@ msgstr "tempo operativo (uptime)"
 msgid "x - Allow comments in regex (PCRE_EXTENDED)"
 msgstr "x - Permetti commenti in regex (PCRE_EXTENDED)"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "{0} (beta)"
 msgstr "{0} (beta)"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "{0} ({1})"
 msgstr "{0} ({1})"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "{0} Engine Metadata"
 msgstr "{0} Meta dati per l'Engine"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "{0} Engine Ping Results"
 msgstr "{0} Risultati del Ping sull'Engine"
 
-#, java-format, fuzzy
+#, fuzzy, java-format
 msgid "{0} Engine Status"
 msgstr "{0} Stato Engine"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-19 13:31-0400\n"
+"POT-Creation-Date: 2012-06-30 20:14-0400\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Andrew Marcuse <fileformat@gmail.com>\n"
 "Language-Team: \n"
@@ -61,6 +61,10 @@ msgid "Allow comments in regex (COMMENTS)"
 msgstr "Autoriser les commentaires dans regex (Commentaires)"
 
 #, fuzzy
+msgid "Allow comments in regex [COMMENTS] (x flag)"
+msgstr "Autoriser les commentaires dans regex (Commentaires)"
+
+#, fuzzy
 msgid "Beta"
 msgstr "Bêta"
 
@@ -77,6 +81,10 @@ msgstr "Annuler"
 
 #, fuzzy
 msgid "Case insensitive (CASE_INSENSITIVE)"
+msgstr "Insensible à la casse (case_insensitive)"
+
+#, fuzzy
+msgid "Case insensitive [CASE_INSENSITIVE] (i flag)"
 msgstr "Insensible à la casse (case_insensitive)"
 
 #, fuzzy
@@ -139,7 +147,15 @@ msgid "Design & Graphics"
 msgstr "Design & Graphics"
 
 #, fuzzy
+msgid "Dot matches all (s)"
+msgstr "Dot correspond à tous les (s)"
+
+#, fuzzy
 msgid "Dot matches line terminator (DOTALL)"
+msgstr "Dot matchs de terminaison de ligne (dotall)"
+
+#, fuzzy
+msgid "Dot matches line terminator [DOTALL] (s flag)"
 msgstr "Dot matchs de terminaison de ligne (dotall)"
 
 #, fuzzy
@@ -166,6 +182,10 @@ msgid "Erlang"
 msgstr "Erlang"
 
 #, fuzzy
+msgid "Explicit capture (n)"
+msgstr "Capture explicite (n)"
+
+#, fuzzy
 msgid "Expression to test"
 msgstr "Expression à tester"
 
@@ -190,8 +210,16 @@ msgid "Force canonical equivalence (CANON_EQ)"
 msgstr "Groupe canonique d'équivalence (CANON_EQ)"
 
 #, fuzzy
+msgid "Force canonical equivalence [CANON_EQ]"
+msgstr "Groupe canonique d'équivalence (CANON_EQ)"
+
+#, fuzzy
 msgid "Fork"
 msgstr "Fourche"
+
+#, fuzzy
+msgid "Free-spacing and line comments (x)"
+msgstr "Étendu avec les espaces et les commentaires (x)"
 
 #, fuzzy
 msgid "Frequently Asked Questions"
@@ -285,6 +313,10 @@ msgid "Make share code"
 msgstr "Faire partager le code"
 
 #, fuzzy
+msgid "Matches must start at lastIndex (y)"
+msgstr "Les matches doivent commencer à lastIndex (y)"
+
+#, fuzzy
 msgid "Metadata"
 msgstr "Métadonnées"
 
@@ -293,6 +325,10 @@ msgstr "Les Miennes"
 
 msgid "More Inputs"
 msgstr "Plus d’Entrées"
+
+#, fuzzy
+msgid "More..."
+msgstr "En savoir plus ..."
 
 #, fuzzy
 msgid "My Recipes"
@@ -328,7 +364,15 @@ msgstr "Test en ligne Expression régulière"
 msgid "Online Testing"
 msgstr "Test"
 
+#, fuzzy, java-format
+msgid "Online testing with the {0} engine is still in beta."
+msgstr "Le {0} moteur est encore en version bêta."
+
 msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
+msgstr "Ne considérer que '\\n' comme terminaison de ligne (UNIX_LINES)"
+
+#, fuzzy
+msgid "Only consider '\\n' as line terminator [UNIX_LINES]"
 msgstr "Ne considérer que '\\n' comme terminaison de ligne (UNIX_LINES)"
 
 #, fuzzy
@@ -396,6 +440,10 @@ msgid "Recent Recipes"
 msgstr "Voir la recette"
 
 #, fuzzy
+msgid "Recently Bookmarked"
+msgstr "Récemment un signet"
+
+#, fuzzy
 msgid "Recipe Requests"
 msgstr "Prie recette"
 
@@ -408,16 +456,16 @@ msgid "RegEx: online regular expression testing"
 msgstr "RegEx: les tests en ligne expression régulière pour {0}"
 
 #, fuzzy, java-format
-msgid "RegEx: online regular expression testing for {0}"
-msgstr "RegEx: les tests en ligne expression régulière pour {0}"
-
-#, fuzzy, java-format
 msgid "RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
 msgstr "RegexPlanet - en ligne expression régulière (regex) Essais et livre de recettes pour: {0}"
 
 #, fuzzy
 msgid "RegexPlanet Resources"
 msgstr "Ressources RegexPlanet"
+
+#, fuzzy, java-format
+msgid "RegexPlanet: online regular expression testing for {0}"
+msgstr "RegEx: les tests en ligne expression régulière pour {0}"
 
 #, fuzzy
 msgid "Regexp Ruby-Doc"
@@ -548,10 +596,6 @@ msgstr "Livre de cuisine"
 msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
 msgstr "La version originale, basée sur Java, n'a pas besoin d'un navigateur avec JavaScript activé. Pas besoin de l'utiliser si celle en Java ci-dessus fonctionne pour vous, mais beaucoup de liens y vont:"
 
-#, fuzzy, java-format
-msgid "The {0} engine is still in beta."
-msgstr "Le {0} moteur est encore en version bêta."
-
 #, fuzzy
 msgid "This will be visible to the public if you share any of your recipes."
 msgstr "Ce sera visible pour le public si vous partagez toutes vos recettes."
@@ -568,6 +612,10 @@ msgid "Tools and services used to build RegexPlanet"
 msgstr "Outils et services utilisés pour construire RegexPlanet"
 
 #, fuzzy
+msgid "Translations"
+msgstr "Traductions"
+
+#, fuzzy
 msgid "UNICODE"
 msgstr "UNICODE"
 
@@ -576,6 +624,10 @@ msgid "Unable to load share code {0}"
 msgstr "Impossible de charger le partage de code {0}"
 
 msgid "Unicode case matching (UNICODE_CASE)"
+msgstr "Unicode case matching (UNICODE_CASE)"
+
+#, fuzzy
+msgid "Unicode case matching [UNICODE_CASE]"
 msgstr "Unicode case matching (UNICODE_CASE)"
 
 #, fuzzy
@@ -646,6 +698,10 @@ msgstr "Votre lien de partage est"
 
 #, fuzzy
 msgid "^ and $ match EOL (MULTILINE)"
+msgstr "^ Et $ correspondent EOL (MULTILINE)"
+
+#, fuzzy
+msgid "^ and $ match EOL [MULTILINE] (m flag)"
 msgstr "^ Et $ correspondent EOL (MULTILINE)"
 
 #, fuzzy

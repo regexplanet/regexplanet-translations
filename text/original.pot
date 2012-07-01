@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: RegexPlanet \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-05-19 13:31-0400\n"
+"POT-Creation-Date: 2012-06-30 20:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,6 +55,9 @@ msgstr ""
 msgid "Allow comments in regex (COMMENTS)"
 msgstr ""
 
+msgid "Allow comments in regex [COMMENTS] (x flag)"
+msgstr ""
+
 msgid "Beta"
 msgstr ""
 
@@ -68,6 +71,9 @@ msgid "Cancel"
 msgstr ""
 
 msgid "Case insensitive (CASE_INSENSITIVE)"
+msgstr ""
+
+msgid "Case insensitive [CASE_INSENSITIVE] (i flag)"
 msgstr ""
 
 msgid "Case insensitive matching (IGNORECASE)"
@@ -115,7 +121,13 @@ msgstr ""
 msgid "Design & Graphics"
 msgstr ""
 
+msgid "Dot matches all (s)"
+msgstr ""
+
 msgid "Dot matches line terminator (DOTALL)"
+msgstr ""
+
+msgid "Dot matches line terminator [DOTALL] (s flag)"
 msgstr ""
 
 msgid "ECMAScript-compliant behavior. This value can be used only in conjunction with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
@@ -136,6 +148,9 @@ msgstr ""
 msgid "Erlang"
 msgstr ""
 
+msgid "Explicit capture (n)"
+msgstr ""
+
 msgid "Expression to test"
 msgstr ""
 
@@ -154,7 +169,13 @@ msgstr ""
 msgid "Force canonical equivalence (CANON_EQ)"
 msgstr ""
 
+msgid "Force canonical equivalence [CANON_EQ]"
+msgstr ""
+
 msgid "Fork"
+msgstr ""
+
+msgid "Free-spacing and line comments (x)"
 msgstr ""
 
 msgid "Frequently Asked Questions"
@@ -227,6 +248,9 @@ msgstr ""
 msgid "Make share code"
 msgstr ""
 
+msgid "Matches must start at lastIndex (y)"
+msgstr ""
+
 msgid "Metadata"
 msgstr ""
 
@@ -234,6 +258,9 @@ msgid "Mine"
 msgstr ""
 
 msgid "More Inputs"
+msgstr ""
+
+msgid "More..."
 msgstr ""
 
 msgid "My Recipes"
@@ -263,7 +290,14 @@ msgstr ""
 msgid "Online Testing"
 msgstr ""
 
+#, java-format
+msgid "Online testing with the {0} engine is still in beta."
+msgstr ""
+
 msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
+msgstr ""
+
+msgid "Only consider '\\n' as line terminator [UNIX_LINES]"
 msgstr ""
 
 msgid "Options:"
@@ -314,6 +348,9 @@ msgstr ""
 msgid "Recent Recipes"
 msgstr ""
 
+msgid "Recently Bookmarked"
+msgstr ""
+
 msgid "Recipe Requests"
 msgstr ""
 
@@ -324,14 +361,14 @@ msgid "RegEx: online regular expression testing"
 msgstr ""
 
 #, java-format
-msgid "RegEx: online regular expression testing for {0}"
-msgstr ""
-
-#, java-format
 msgid "RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
 msgstr ""
 
 msgid "RegexPlanet Resources"
+msgstr ""
+
+#, java-format
+msgid "RegexPlanet: online regular expression testing for {0}"
 msgstr ""
 
 msgid "Regexp Ruby-Doc"
@@ -433,10 +470,6 @@ msgstr ""
 msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
 msgstr ""
 
-#, java-format
-msgid "The {0} engine is still in beta."
-msgstr ""
-
 msgid "This will be visible to the public if you share any of your recipes."
 msgstr ""
 
@@ -449,6 +482,9 @@ msgstr ""
 msgid "Tools and services used to build RegexPlanet"
 msgstr ""
 
+msgid "Translations"
+msgstr ""
+
 msgid "UNICODE"
 msgstr ""
 
@@ -457,6 +493,9 @@ msgid "Unable to load share code {0}"
 msgstr ""
 
 msgid "Unicode case matching (UNICODE_CASE)"
+msgstr ""
+
+msgid "Unicode case matching [UNICODE_CASE]"
 msgstr ""
 
 msgid "Update"
@@ -512,6 +551,9 @@ msgid "Your sharing link is "
 msgstr ""
 
 msgid "^ and $ match EOL (MULTILINE)"
+msgstr ""
+
+msgid "^ and $ match EOL [MULTILINE] (m flag)"
 msgstr ""
 
 msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (Multiline)"
