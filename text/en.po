@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-30 20:14-0400\n"
+"POT-Creation-Date: 2013-07-25 21:01-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Andrew M <fileformat@gmail.com>\n"
 "Language: en\n"
@@ -44,6 +44,12 @@ msgstr ""
 msgid ".Net"
 msgstr ""
 
+msgid ""
+"A badly formed regular expression can run forever, making it very useful for "
+"denial of services attacks.  Some of the engines/hosts are susceptible to "
+"these.  Check the current engine status to see if they are running."
+msgstr ""
+
 msgid "A quick and easy way to share regular expressions"
 msgstr ""
 
@@ -69,11 +75,6 @@ msgid "Beta"
 msgstr ""
 
 msgid "Bookstore"
-msgstr ""
-
-msgid ""
-"Can't find the right regex recipe?  Add a comment here with all the details, "
-"including some test inputs!"
 msgstr ""
 
 msgid "Cancel"
@@ -115,6 +116,9 @@ msgstr ""
 msgid "Credits"
 msgstr ""
 
+msgid "Current Status"
+msgstr ""
+
 msgid "DEBUG"
 msgstr ""
 
@@ -153,6 +157,9 @@ msgid "Email:"
 msgstr ""
 
 msgid "Engine"
+msgstr ""
+
+msgid "Engine Status"
 msgstr ""
 
 msgid "Engines"
@@ -203,6 +210,9 @@ msgstr ""
 msgid "Go"
 msgstr ""
 
+msgid "Historical Performance"
+msgstr ""
+
 msgid "History"
 msgstr ""
 
@@ -243,6 +253,9 @@ msgstr ""
 msgid "LOCALE"
 msgstr ""
 
+msgid "License"
+msgstr ""
+
 msgid "Links"
 msgstr ""
 
@@ -261,7 +274,7 @@ msgstr ""
 msgid "Make share code"
 msgstr ""
 
-msgid "Matches must start at lastIndex (y)"
+msgid "Matches must start at lastIndex (y) NOTE: not supported at RegexPlanet"
 msgstr ""
 
 msgid "Metadata"
@@ -279,6 +292,11 @@ msgstr ""
 msgid "My Recipes"
 msgstr ""
 
+msgid ""
+"Need help on a specific regex?  Make a share code, then post it on the <a "
+"href=\"/cookbook/request.html\">Request a Recipe</a> page"
+msgstr ""
+
 msgid "Newlines are just another character (MULTILINE)"
 msgstr ""
 
@@ -286,9 +304,6 @@ msgid "Nickname:"
 msgstr ""
 
 msgid "No"
-msgstr ""
-
-msgid "Not currently being monitored."
 msgstr ""
 
 msgid "Official Documentation Links"
@@ -301,6 +316,11 @@ msgid "Online Regular Expression Testing"
 msgstr ""
 
 msgid "Online Testing"
+msgstr ""
+
+#, java-format
+msgid ""
+"Online testing with the {0} engine is not complete - alpha testing only!"
 msgstr ""
 
 #, java-format
@@ -317,6 +337,9 @@ msgid "Options:"
 msgstr ""
 
 msgid "Original Expression"
+msgstr ""
+
+msgid "Other sources"
 msgstr ""
 
 msgid "PCRE Functions"
@@ -337,7 +360,10 @@ msgstr ""
 msgid "Pick which programming language you are using:"
 msgstr ""
 
-msgid "Ping"
+msgid ""
+"Please include a share code (from one of the test pages).  Even if you don't "
+"fill in the regex, fill in some inputs so we can see what you are trying to "
+"match."
 msgstr ""
 
 msgid "Preserve matched strings (p)"
@@ -371,6 +397,9 @@ msgid "Recipes by user"
 msgstr ""
 
 msgid "RegEx: online regular expression testing"
+msgstr ""
+
+msgid "Regex Engine Status"
 msgstr ""
 
 #, java-format
@@ -453,13 +482,16 @@ msgstr ""
 msgid "Similar"
 msgstr ""
 
-msgid "Status"
+msgid "Start Testing!"
 msgstr ""
 
 msgid "Support"
 msgstr ""
 
 msgid "Support Links"
+msgstr ""
+
+msgid "Support Unicode astral characters (A)"
 msgstr ""
 
 msgid "Syntax"
@@ -492,6 +524,9 @@ msgid ""
 "of links go directly to it:"
 msgstr ""
 
+msgid "This engine is not being monitored"
+msgstr ""
+
 msgid "This will be visible to the public if you share any of your recipes."
 msgstr ""
 
@@ -505,6 +540,9 @@ msgid "Tools and services used to build RegexPlanet"
 msgstr ""
 
 msgid "Translations"
+msgstr ""
+
+msgid "Treat as a sequence of literal characters (LITERAL)"
 msgstr ""
 
 msgid "UNICODE"
@@ -609,6 +647,9 @@ msgid ""
 "(Singleline)"
 msgstr ""
 
+msgid "featured"
+msgstr ""
+
 msgid "for Java"
 msgstr ""
 
@@ -656,6 +697,9 @@ msgstr ""
 msgid "perlre"
 msgstr ""
 
+msgid "private"
+msgstr ""
+
 msgid "re man page"
 msgstr ""
 
@@ -670,6 +714,9 @@ msgstr ""
 
 msgid ""
 "search will be from right to left instead of from left to right (RightToLeft)"
+msgstr ""
+
+msgid "shared"
 msgstr ""
 
 msgid "single line (s)"
@@ -687,7 +734,14 @@ msgstr ""
 msgid "uptime"
 msgstr ""
 
+msgid "useful websites for Regex developers"
+msgstr ""
+
 msgid "x - Allow comments in regex (PCRE_EXTENDED)"
+msgstr ""
+
+#, java-format
+msgid "{0} (alpha)"
 msgstr ""
 
 #, java-format
@@ -699,13 +753,13 @@ msgid "{0} ({1})"
 msgstr ""
 
 #, java-format
+msgid "{0} Engine Current Status"
+msgstr ""
+
+#, java-format
+msgid "{0} Engine Historical Performance"
+msgstr ""
+
+#, java-format
 msgid "{0} Engine Metadata"
-msgstr ""
-
-#, java-format
-msgid "{0} Engine Ping Results"
-msgstr ""
-
-#, java-format
-msgid "{0} Engine Status"
 msgstr ""

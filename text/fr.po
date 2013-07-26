@@ -3,29 +3,37 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-30 20:14-0400\n"
+"POT-Creation-Date: 2013-07-25 21:01-0400\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Andrew Marcuse <fileformat@gmail.com>\n"
 "Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 
 #, fuzzy
 msgid "%engines.bottom.html"
-msgstr "Vous ne trouvez pas ce que vous avez besoin? <a href=\"request.html\">Demander une recette</a> !"
+msgstr ""
+"Vous ne trouvez pas ce que vous avez besoin? <a href=\"request.html"
+"\">Demander une recette</a> !"
 
 msgid "%html.lang.attribute"
 msgstr "fr-x-mtfrom-en"
 
 #, fuzzy
 msgid "%request.html"
-msgstr "Vous ne trouvez pas ce que vous avez besoin? <a href=\"request.html\">Demander une recette</a> !"
+msgstr ""
+"Vous ne trouvez pas ce que vous avez besoin? <a href=\"request.html"
+"\">Demander une recette</a> !"
 
 #, fuzzy
 msgid "%share.tip.html"
-msgstr "Créer un partage de code à partager cette expression régulière, les options, le remplacement et toutes les entrées de test. <br/><br/> Notez que regexs partagés sont visibles à tout le monde, alors ne soyez pas quoi que ce soit une action qui est privé!"
+msgstr ""
+"Créer un partage de code à partager cette expression régulière, les options, "
+"le remplacement et toutes les entrées de test. <br/><br/> Notez que regexs "
+"partagés sont visibles à tout le monde, alors ne soyez pas quoi que ce soit "
+"une action qui est privé!"
 
 #, fuzzy
 msgid "(current)"
@@ -37,6 +45,12 @@ msgstr "(Non disponible)"
 
 msgid ".Net"
 msgstr ".Net"
+
+msgid ""
+"A badly formed regular expression can run forever, making it very useful for "
+"denial of services attacks.  Some of the engines/hosts are susceptible to "
+"these.  Check the current engine status to see if they are running."
+msgstr ""
 
 #, fuzzy
 msgid "A quick and easy way to share regular expressions"
@@ -71,9 +85,6 @@ msgstr "Bêta"
 #, fuzzy
 msgid "Bookstore"
 msgstr "Librairie"
-
-msgid "Can't find the right regex recipe?  Add a comment here with all the details, including some test inputs!"
-msgstr "Vous ne trouvez pas la bonne recette regex? Ajouter un commentaire très précis, en y mettant des exemples afin de pouvoir faire des essais!"
 
 #, fuzzy
 msgid "Cancel"
@@ -127,6 +138,10 @@ msgid "Credits"
 msgstr "Crédits"
 
 #, fuzzy
+msgid "Current Status"
+msgstr "Statut"
+
+#, fuzzy
 msgid "DEBUG"
 msgstr "DEBUG"
 
@@ -159,12 +174,21 @@ msgid "Dot matches line terminator [DOTALL] (s flag)"
 msgstr "Dot matchs de terminaison de ligne (dotall)"
 
 #, fuzzy
-msgid "ECMAScript-compliant behavior. This value can be used only in conjunction with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
-msgstr "Conforme ECMAScript comportement. Cette valeur peut être utilisé uniquement en conjonction avec les valeurs IgnoreCase, multiligne, et compilé. (ECMAScript)"
+msgid ""
+"ECMAScript-compliant behavior. This value can be used only in conjunction "
+"with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
+msgstr ""
+"Conforme ECMAScript comportement. Cette valeur peut être utilisé uniquement "
+"en conjonction avec les valeurs IgnoreCase, multiligne, et compilé. "
+"(ECMAScript)"
 
 #, fuzzy
-msgid "Eliminate unescaped white space from the pattern and enable comments marked with # (IgnorePatternWhitespace)"
-msgstr "Éliminer l'espace blanc sans séquence d'échappement du modèle et activer les commentaires marqués avec # (IgnorePatternWhitespace)"
+msgid ""
+"Eliminate unescaped white space from the pattern and enable comments marked "
+"with # (IgnorePatternWhitespace)"
+msgstr ""
+"Éliminer l'espace blanc sans séquence d'échappement du modèle et activer les "
+"commentaires marqués avec # (IgnorePatternWhitespace)"
 
 #, fuzzy
 msgid "Email:"
@@ -172,6 +196,10 @@ msgstr "Email:"
 
 msgid "Engine"
 msgstr "Moteur"
+
+#, fuzzy
+msgid "Engine Status"
+msgstr "Moteur condition {0}"
 
 #, fuzzy
 msgid "Engines"
@@ -236,6 +264,9 @@ msgstr "Correspondance globale (g)"
 msgid "Go"
 msgstr "Go"
 
+msgid "Historical Performance"
+msgstr ""
+
 #, fuzzy
 msgid "History"
 msgstr "Histoire"
@@ -288,6 +319,9 @@ msgstr "Test en ligne Expression régulière"
 msgid "LOCALE"
 msgstr "LOCALE"
 
+msgid "License"
+msgstr ""
+
 #, fuzzy
 msgid "Links"
 msgstr "Liens"
@@ -313,7 +347,7 @@ msgid "Make share code"
 msgstr "Faire partager le code"
 
 #, fuzzy
-msgid "Matches must start at lastIndex (y)"
+msgid "Matches must start at lastIndex (y) NOTE: not supported at RegexPlanet"
 msgstr "Les matches doivent commencer à lastIndex (y)"
 
 #, fuzzy
@@ -334,6 +368,11 @@ msgstr "En savoir plus ..."
 msgid "My Recipes"
 msgstr "Voir la recette"
 
+msgid ""
+"Need help on a specific regex?  Make a share code, then post it on the <a "
+"href=\"/cookbook/request.html\">Request a Recipe</a> page"
+msgstr ""
+
 #, fuzzy
 msgid "Newlines are just another character (MULTILINE)"
 msgstr "Les nouvelles lignes sont juste un autre personnage (MULTILINE)"
@@ -345,9 +384,6 @@ msgstr "Pseudo:"
 #, fuzzy
 msgid "No"
 msgstr "Aucun"
-
-msgid "Not currently being monitored."
-msgstr "Pas actuellement surveillés."
 
 msgid "Official Documentation Links"
 msgstr "Liens de documentation officiels"
@@ -363,6 +399,11 @@ msgstr "Test en ligne Expression régulière"
 #, fuzzy
 msgid "Online Testing"
 msgstr "Test"
+
+#, fuzzy, java-format
+msgid ""
+"Online testing with the {0} engine is not complete - alpha testing only!"
+msgstr "Le {0} moteur est encore en version bêta."
 
 #, fuzzy, java-format
 msgid "Online testing with the {0} engine is still in beta."
@@ -382,6 +423,10 @@ msgstr "Options:"
 #, fuzzy
 msgid "Original Expression"
 msgstr "Expression régulière:"
+
+#, fuzzy
+msgid "Other sources"
+msgstr "source"
 
 #, fuzzy
 msgid "PCRE Functions"
@@ -407,9 +452,11 @@ msgstr "Perl"
 msgid "Pick which programming language you are using:"
 msgstr "Choisissez le langage de programmation que vous utilisez:"
 
-#, fuzzy
-msgid "Ping"
-msgstr "Ping"
+msgid ""
+"Please include a share code (from one of the test pages).  Even if you don't "
+"fill in the regex, fill in some inputs so we can see what you are trying to "
+"match."
+msgstr ""
 
 #, fuzzy
 msgid "Preserve matched strings (p)"
@@ -455,9 +502,16 @@ msgstr "Prie recette"
 msgid "RegEx: online regular expression testing"
 msgstr "RegEx: les tests en ligne expression régulière pour {0}"
 
+#, fuzzy
+msgid "Regex Engine Status"
+msgstr "Moteur condition {0}"
+
 #, fuzzy, java-format
-msgid "RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
-msgstr "RegexPlanet - en ligne expression régulière (regex) Essais et livre de recettes pour: {0}"
+msgid ""
+"RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
+msgstr ""
+"RegexPlanet - en ligne expression régulière (regex) Essais et livre de "
+"recettes pour: {0}"
 
 #, fuzzy
 msgid "RegexPlanet Resources"
@@ -491,8 +545,15 @@ msgstr "Test en ligne Expression régulière"
 msgid "Regular expression:"
 msgstr "Expression régulière:"
 
-msgid "Regular expressions are an incredibly powerful tool, but can be rather tricky to get exactly right.  This is a website that I wrote so I could quickly and easily test regular expressions during development."
-msgstr "Les expressions régulières sont un outil incroyablement puissant, mais peuvent être assez difficiles à écrire exactement comme il le faut. Ceci est un site web que j'ai écrit pour que je puisse rapidement et facilement tester des expressions régulières au cours du développement."
+msgid ""
+"Regular expressions are an incredibly powerful tool, but can be rather "
+"tricky to get exactly right.  This is a website that I wrote so I could "
+"quickly and easily test regular expressions during development."
+msgstr ""
+"Les expressions régulières sont un outil incroyablement puissant, mais "
+"peuvent être assez difficiles à écrire exactement comme il le faut. Ceci est "
+"un site web que j'ai écrit pour que je puisse rapidement et facilement "
+"tester des expressions régulières au cours du développement."
 
 #, fuzzy
 msgid "Replacement"
@@ -538,8 +599,12 @@ msgid "Share code"
 msgstr "Partagez du code"
 
 #, fuzzy
-msgid "Share codes are an easy way to share regexes.  If you have a share code, enter it here:"
-msgstr "Violons sont un moyen facile de partager des expressions rationnelles. Si vous avez un violon brut, saisissez-le ici:"
+msgid ""
+"Share codes are an easy way to share regexes.  If you have a share code, "
+"enter it here:"
+msgstr ""
+"Violons sont un moyen facile de partager des expressions rationnelles. Si "
+"vous avez un violon brut, saisissez-le ici:"
 
 #, fuzzy
 msgid "Share!"
@@ -550,8 +615,8 @@ msgid "Similar"
 msgstr "Similaire"
 
 #, fuzzy
-msgid "Status"
-msgstr "Statut"
+msgid "Start Testing!"
+msgstr "Test"
 
 #, fuzzy
 msgid "Support"
@@ -560,6 +625,9 @@ msgstr "Soutenir"
 #, fuzzy
 msgid "Support Links"
 msgstr "Soutenir"
+
+msgid "Support Unicode astral characters (A)"
+msgstr ""
 
 #, fuzzy
 msgid "Syntax"
@@ -593,8 +661,18 @@ msgstr "Test"
 msgid "The Regex Cookbook"
 msgstr "Livre de cuisine"
 
-msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
-msgstr "La version originale, basée sur Java, n'a pas besoin d'un navigateur avec JavaScript activé. Pas besoin de l'utiliser si celle en Java ci-dessus fonctionne pour vous, mais beaucoup de liens y vont:"
+msgid ""
+"The original version was Java-based and did not require a JavaScript-enabled "
+"browser.  No need to use it if the Java one above works for you, but a lot "
+"of links go directly to it:"
+msgstr ""
+"La version originale, basée sur Java, n'a pas besoin d'un navigateur avec "
+"JavaScript activé. Pas besoin de l'utiliser si celle en Java ci-dessus "
+"fonctionne pour vous, mais beaucoup de liens y vont:"
+
+#, fuzzy
+msgid "This engine is not being monitored"
+msgstr "Pas actuellement surveillés."
 
 #, fuzzy
 msgid "This will be visible to the public if you share any of your recipes."
@@ -614,6 +692,9 @@ msgstr "Outils et services utilisés pour construire RegexPlanet"
 #, fuzzy
 msgid "Translations"
 msgstr "Traductions"
+
+msgid "Treat as a sequence of literal characters (LITERAL)"
+msgstr ""
 
 #, fuzzy
 msgid "UNICODE"
@@ -651,8 +732,13 @@ msgid "Use locale charset rules (l)"
 msgstr "Utilisez locale règles charset (l)"
 
 #, fuzzy
-msgid "Use the cookbook to save and share regex recipes.<br/><br/>Note: while you can view anonymously, you must be logged in to save."
-msgstr "Utilisez le livre de recettes pour enregistrer et partager des recettes regex <br/> Note:. Tandis que vous pouvez voir de manière anonyme, vous devez être connecté pour enregistrer."
+msgid ""
+"Use the cookbook to save and share regex recipes.<br/><br/>Note: while you "
+"can view anonymously, you must be logged in to save."
+msgstr ""
+"Utilisez le livre de recettes pour enregistrer et partager des recettes "
+"regex <br/> Note:. Tandis que vous pouvez voir de manière anonyme, vous "
+"devez être connecté pour enregistrer."
 
 #, fuzzy
 msgid "VERBOSE"
@@ -689,8 +775,12 @@ msgid "You created this on a different machine"
 msgstr "Vous avez créé sur une machine différente"
 
 #, fuzzy
-msgid "You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</a> first!"
-msgstr "Vous devez <a href=\"/security/login.html?next=/cookbook/my.html\"> login </ a> d'abord!"
+msgid ""
+"You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</"
+"a> first!"
+msgstr ""
+"Vous devez <a href=\"/security/login.html?next=/cookbook/my.html\"> login </ "
+"a> d'abord!"
 
 #, fuzzy
 msgid "Your sharing link is "
@@ -705,12 +795,22 @@ msgid "^ and $ match EOL [MULTILINE] (m flag)"
 msgstr "^ Et $ correspondent EOL (MULTILINE)"
 
 #, fuzzy
-msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (Multiline)"
-msgstr "^ Et $ de sorte qu'ils correspondent au début et à la fin, respectivement, de n'importe quelle ligne, et pas seulement le début et la fin de la chaîne entière (Multiline)"
+msgid ""
+"^ and $ so they match at the beginning and end, respectively, of any line, "
+"and not just the beginning and end of the entire string (Multiline)"
+msgstr ""
+"^ Et $ de sorte qu'ils correspondent au début et à la fin, respectivement, "
+"de n'importe quelle ligne, et pas seulement le début et la fin de la chaîne "
+"entière (Multiline)"
 
 #, fuzzy
-msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (m)"
-msgstr "^ Et $ de sorte qu'ils correspondent au début et à la fin, respectivement, de n'importe quelle ligne, et pas seulement le début et la fin de la chaîne entière (Multiline)"
+msgid ""
+"^ and $ so they match at the beginning and end, respectively, of any line, "
+"and not just the beginning and end of the entire string (m)"
+msgstr ""
+"^ Et $ de sorte qu'ils correspondent au début et à la fin, respectivement, "
+"de n'importe quelle ligne, et pas seulement le début et la fin de la chaîne "
+"entière (Multiline)"
 
 #, fuzzy
 msgid "as a Java string"
@@ -729,8 +829,16 @@ msgid "case-insensitive (i)"
 msgstr "insensible à la casse (i)"
 
 #, fuzzy
-msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
-msgstr "point (.) correspond à chaque personnage au lieu de tous les caractères sauf des sauts de ligne (SingleLine)"
+msgid ""
+"dot (.) matches every character instead of every character except newlines "
+"(Singleline)"
+msgstr ""
+"point (.) correspond à chaque personnage au lieu de tous les caractères sauf "
+"des sauts de ligne (SingleLine)"
+
+#, fuzzy
+msgid "featured"
+msgstr "Recettes en vedette"
 
 #, fuzzy
 msgid "for Java"
@@ -777,8 +885,12 @@ msgid "multiline (m)"
 msgstr "multiligne (m)"
 
 #, fuzzy
-msgid "only explicitly named or numbered groups of the form (?<name>…) are valid captures (ExplicitCapture)"
-msgstr "seuls les groupes explicitement nommés ou numérotés de la forme (? <name> ...) sont des captures valides (ExplicitCapture)"
+msgid ""
+"only explicitly named or numbered groups of the form (?<name>…) are valid "
+"captures (ExplicitCapture)"
+msgstr ""
+"seuls les groupes explicitement nommés ou numérotés de la forme (? "
+"<name> ...) sont des captures valides (ExplicitCapture)"
 
 #, fuzzy
 msgid "overview"
@@ -791,6 +903,9 @@ msgstr "perldoc"
 #, fuzzy
 msgid "perlre"
 msgstr "perlre"
+
+msgid "private"
+msgstr ""
 
 #, fuzzy
 msgid "re man page"
@@ -809,8 +924,14 @@ msgid "s - Dot matches line terminator (PCRE_DOTALL)"
 msgstr "s - Dot matchs de terminaison de ligne (PCRE_DOTALL)"
 
 #, fuzzy
-msgid "search will be from right to left instead of from left to right (RightToLeft)"
-msgstr "recherche sera de droite à gauche et non de gauche à droite (RightToLeft)"
+msgid ""
+"search will be from right to left instead of from left to right (RightToLeft)"
+msgstr ""
+"recherche sera de droite à gauche et non de gauche à droite (RightToLeft)"
+
+#, fuzzy
+msgid "shared"
+msgstr "Partager!"
 
 #, fuzzy
 msgid "single line (s)"
@@ -832,9 +953,16 @@ msgstr "u - Les chaînes sont traitées en tant que UTF-8 (PCRE8)"
 msgid "uptime"
 msgstr "disponibilité"
 
+msgid "useful websites for Regex developers"
+msgstr ""
+
 #, fuzzy
 msgid "x - Allow comments in regex (PCRE_EXTENDED)"
 msgstr "x - Autoriser les commentaires dans regex (PCRE_EXTENDED)"
+
+#, fuzzy, java-format
+msgid "{0} (alpha)"
+msgstr "{0} (bêta)"
 
 #, fuzzy, java-format
 msgid "{0} (beta)"
@@ -845,16 +973,31 @@ msgid "{0} ({1})"
 msgstr "{0} ({1})"
 
 #, fuzzy, java-format
+msgid "{0} Engine Current Status"
+msgstr "Moteur condition {0}"
+
+#, java-format
+msgid "{0} Engine Historical Performance"
+msgstr ""
+
+#, fuzzy, java-format
 msgid "{0} Engine Metadata"
 msgstr "Métadonnées moteur {0}"
 
-#, fuzzy, java-format
-msgid "{0} Engine Ping Results"
-msgstr "{0} Résultats Ping moteur"
+#~ msgid ""
+#~ "Can't find the right regex recipe?  Add a comment here with all the "
+#~ "details, including some test inputs!"
+#~ msgstr ""
+#~ "Vous ne trouvez pas la bonne recette regex? Ajouter un commentaire très "
+#~ "précis, en y mettant des exemples afin de pouvoir faire des essais!"
 
-#, fuzzy, java-format
-msgid "{0} Engine Status"
-msgstr "Moteur condition {0}"
+#, fuzzy
+#~ msgid "Ping"
+#~ msgstr "Ping"
+
+#, fuzzy
+#~ msgid "{0} Engine Ping Results"
+#~ msgstr "{0} Résultats Ping moteur"
 
 #~ msgid "Create a fiddle to share this regex"
 #~ msgstr "Créer un violon de partager cette regex"
