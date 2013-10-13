@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-25 21:01-0400\n"
+"POT-Creation-Date: 2013-10-13 10:43-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Andrew M <fileformat@gmail.com>\n"
 "Language: en\n"
@@ -16,11 +16,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "# of inputs:"
+msgstr ""
+
 msgid "%engines.bottom.html"
 msgstr ""
 "<p>Check out the <a href=\"api.html\">API specs</a> if you want to add "
 "support for another engine</p><p>See the <a href=\"options.html\">different "
 "options</a> supported by each engine.</p>"
+
+msgid "%go.to.link"
+msgstr "Go"
 
 msgid "%html.lang.attribute"
 msgstr "en"
@@ -54,6 +60,9 @@ msgid "A quick and easy way to share regular expressions"
 msgstr ""
 
 msgid "Add"
+msgstr ""
+
+msgid "Admin Edit"
 msgstr ""
 
 msgid "Administrator:"
@@ -144,8 +153,11 @@ msgid "Dot matches line terminator [DOTALL] (s flag)"
 msgstr ""
 
 msgid ""
-"ECMAScript-compliant behavior. This value can be used only in conjunction "
-"with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
+"ECMAScript-compliant behavior. This is flag is only compatible with the "
+"IgnoreCase, Multiline, and Compiled flags. (ECMAScript)"
+msgstr ""
+
+msgid "Edit"
 msgstr ""
 
 msgid ""
@@ -227,6 +239,9 @@ msgstr ""
 
 #, java-format
 msgid "Input {0}:"
+msgstr ""
+
+msgid "Internal ID:"
 msgstr ""
 
 msgid "Invalid share code"
@@ -381,6 +396,9 @@ msgstr ""
 msgid "Python"
 msgstr ""
 
+msgid "Raw View"
+msgstr ""
+
 msgid "Recent"
 msgstr ""
 
@@ -400,6 +418,9 @@ msgid "RegEx: online regular expression testing"
 msgstr ""
 
 msgid "Regex Engine Status"
+msgstr ""
+
+msgid "Regex:"
 msgstr ""
 
 #, java-format
@@ -476,6 +497,9 @@ msgid ""
 "enter it here:"
 msgstr ""
 
+msgid "Share it:"
+msgstr ""
+
 msgid "Share!"
 msgstr ""
 
@@ -498,6 +522,9 @@ msgid "Syntax"
 msgstr ""
 
 msgid "System.Text.RegularExpressions.Regex"
+msgstr ""
+
+msgid "Tags:"
 msgstr ""
 
 msgid "Target String"
@@ -543,6 +570,9 @@ msgid "Translations"
 msgstr ""
 
 msgid "Treat as a sequence of literal characters (LITERAL)"
+msgstr ""
+
+msgid "Try it:"
 msgstr ""
 
 msgid "UNICODE"

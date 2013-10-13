@@ -1,17 +1,21 @@
 # created by GT4PO
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-25 21:01-0400\n"
+"POT-Creation-Date: 2013-10-13 10:43-0400\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Omar Siam <simar@gmx.net>\n"
+"Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Omar Siam <simar@gmx.net>\n"
-"Language-Team: \n"
 "X-Generator: Poedit 1.5.7\n"
+
+#, fuzzy
+msgid "# of inputs:"
+msgstr "Mehr Angaben"
 
 msgid "%engines.bottom.html"
 msgstr ""
@@ -19,6 +23,9 @@ msgstr ""
 "Unterstützung für eine anderea engine hinzufügen wollen</p><p>Heir sehen Sie "
 "<a href=\"options.html\">die unterschiedlichen Optionen</a>, die die "
 "jeweilige engine unterstützt.</p>"
+
+msgid "%go.to.link"
+msgstr "Start"
 
 msgid "%html.lang.attribute"
 msgstr "de-x-mtfrom-en"
@@ -63,6 +70,9 @@ msgstr "Eine schnelle und einfache Möglichkeit, reguläre Ausdrücke zu teilen"
 #, fuzzy
 msgid "Add"
 msgstr "Hinzufügen"
+
+msgid "Admin Edit"
+msgstr ""
 
 #, fuzzy
 msgid "Administrator:"
@@ -163,12 +173,16 @@ msgstr "Punkt steht auch für Zeilenende (DOTALL)"
 msgid "Dot matches line terminator [DOTALL] (s flag)"
 msgstr "Punkt steht auch für Zeilenende [DOTALL] (s flag)"
 
+#, fuzzy
 msgid ""
-"ECMAScript-compliant behavior. This value can be used only in conjunction "
-"with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
+"ECMAScript-compliant behavior. This is flag is only compatible with the "
+"IgnoreCase, Multiline, and Compiled flags. (ECMAScript)"
 msgstr ""
 "ECMAScript-konformes Verhalten. Dieser Wert kann nur in Verbindung mit den "
 "IgnoreCase, Multiline und Compiled values verwendet werden. (ECMAScript)"
+
+msgid "Edit"
+msgstr ""
 
 msgid ""
 "Eliminate unescaped white space from the pattern and enable comments marked "
@@ -236,7 +250,7 @@ msgid "Global match (g)"
 msgstr "Muster überall finden (g)"
 
 msgid "Go"
-msgstr "Start"
+msgstr "Go"
 
 msgid "Historical Performance"
 msgstr "Frühere Performance"
@@ -257,6 +271,9 @@ msgstr "Ignoriere Leerzeichen im regulären Ausdruck (EXTENDED)"
 #, java-format
 msgid "Input {0}:"
 msgstr "Angabe {0}:"
+
+msgid "Internal ID:"
+msgstr ""
 
 msgid "Invalid share code"
 msgstr "Ungültiger Teilen-Code"
@@ -440,6 +457,9 @@ msgstr "Programming Ruby"
 msgid "Python"
 msgstr "Python"
 
+msgid "Raw View"
+msgstr ""
+
 msgid "Recent"
 msgstr "neu"
 
@@ -461,6 +481,9 @@ msgstr "RegEx: Online-Tests für reguläre Ausdrücke"
 
 msgid "Regex Engine Status"
 msgstr "Regex Engine-Status"
+
+msgid "Regex:"
+msgstr ""
 
 #, java-format
 msgid ""
@@ -547,6 +570,10 @@ msgstr ""
 "Teilen Codes sind eine einfache Möglichkeit, reguläre Ausdrücke zu teilen. "
 "Wenn Sie einen Teilen Code haben, geben Sie ihn hier ein:"
 
+#, fuzzy
+msgid "Share it:"
+msgstr "Teile!"
+
 msgid "Share!"
 msgstr "Teile!"
 
@@ -573,6 +600,9 @@ msgstr "Syntax"
 #, fuzzy
 msgid "System.Text.RegularExpressions.Regex"
 msgstr "System.Text.RegularExpressions.Regex"
+
+msgid "Tags:"
+msgstr ""
 
 msgid "Target String"
 msgstr "Ziel-String"
@@ -628,6 +658,9 @@ msgstr "Übersetzungen"
 
 msgid "Treat as a sequence of literal characters (LITERAL)"
 msgstr "Behandle das als eine Sequenz von Literalen (LITERAL)"
+
+msgid "Try it:"
+msgstr ""
 
 #, fuzzy
 msgid "UNICODE"

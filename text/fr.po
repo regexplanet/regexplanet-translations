@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-25 21:01-0400\n"
+"POT-Creation-Date: 2013-10-13 10:43-0400\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Andrew Marcuse <fileformat@gmail.com>\n"
 "Language-Team: \n"
@@ -13,10 +13,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #, fuzzy
+msgid "# of inputs:"
+msgstr "Plus d’Entrées"
+
+#, fuzzy
 msgid "%engines.bottom.html"
 msgstr ""
 "Vous ne trouvez pas ce que vous avez besoin? <a href=\"request.html"
 "\">Demander une recette</a> !"
+
+msgid "%go.to.link"
+msgstr ""
 
 msgid "%html.lang.attribute"
 msgstr "fr-x-mtfrom-en"
@@ -59,6 +66,9 @@ msgstr "Un moyen rapide et facile à partager les expressions régulières"
 #, fuzzy
 msgid "Add"
 msgstr "Ajouter"
+
+msgid "Admin Edit"
+msgstr ""
 
 #, fuzzy
 msgid "Administrator:"
@@ -175,12 +185,15 @@ msgstr "Dot matchs de terminaison de ligne (dotall)"
 
 #, fuzzy
 msgid ""
-"ECMAScript-compliant behavior. This value can be used only in conjunction "
-"with the IgnoreCase, Multiline, and Compiled values. (ECMAScript)"
+"ECMAScript-compliant behavior. This is flag is only compatible with the "
+"IgnoreCase, Multiline, and Compiled flags. (ECMAScript)"
 msgstr ""
 "Conforme ECMAScript comportement. Cette valeur peut être utilisé uniquement "
 "en conjonction avec les valeurs IgnoreCase, multiligne, et compilé. "
 "(ECMAScript)"
+
+msgid "Edit"
+msgstr ""
 
 #, fuzzy
 msgid ""
@@ -286,6 +299,9 @@ msgstr "Ignorer les espaces dans l'expression régulière (EXTENDED)"
 #, fuzzy, java-format
 msgid "Input {0}:"
 msgstr "Entrée {0}:"
+
+msgid "Internal ID:"
+msgstr ""
 
 #, fuzzy
 msgid "Invalid share code"
@@ -478,6 +494,9 @@ msgstr "Programmation Ruby"
 msgid "Python"
 msgstr "Python"
 
+msgid "Raw View"
+msgstr ""
+
 #, fuzzy
 msgid "Recent"
 msgstr "Voir la recette"
@@ -505,6 +524,9 @@ msgstr "RegEx: les tests en ligne expression régulière pour {0}"
 #, fuzzy
 msgid "Regex Engine Status"
 msgstr "Moteur condition {0}"
+
+msgid "Regex:"
+msgstr ""
 
 #, fuzzy, java-format
 msgid ""
@@ -607,6 +629,10 @@ msgstr ""
 "vous avez un violon brut, saisissez-le ici:"
 
 #, fuzzy
+msgid "Share it:"
+msgstr "Partager!"
+
+#, fuzzy
 msgid "Share!"
 msgstr "Partager!"
 
@@ -636,6 +662,9 @@ msgstr "Syntaxe"
 #, fuzzy
 msgid "System.Text.RegularExpressions.Regex"
 msgstr "System.Text.RegularExpressions.Regex"
+
+msgid "Tags:"
+msgstr ""
 
 #, fuzzy
 msgid "Target String"
@@ -694,6 +723,9 @@ msgid "Translations"
 msgstr "Traductions"
 
 msgid "Treat as a sequence of literal characters (LITERAL)"
+msgstr ""
+
+msgid "Try it:"
 msgstr ""
 
 #, fuzzy
