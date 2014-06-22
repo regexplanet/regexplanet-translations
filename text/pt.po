@@ -1,0 +1,775 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RegexPlanet \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-22 09:14-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "# of inputs:"
+msgstr ""
+
+msgid "%engines.bottom.html"
+msgstr ""
+
+msgid "%go.to.link"
+msgstr ""
+
+msgid "%html.lang.attribute"
+msgstr ""
+
+msgid "%request.html"
+msgstr ""
+
+msgid "%share.tip.html"
+msgstr ""
+
+msgid "(current)"
+msgstr ""
+
+msgid "(not available)"
+msgstr ""
+
+msgid ".Net"
+msgstr ""
+
+msgid "A badly formed regular expression can run forever, making it very useful for denial of services attacks.  Some of the engines/hosts are susceptible to these.  Check the current engine status to see if they are running."
+msgstr ""
+
+msgid "A quick and easy way to share regular expressions"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add the extended non-POSIX syntax (tdfa only, newSyntax)"
+msgstr ""
+
+msgid "Admin Edit"
+msgstr ""
+
+msgid "Administrator:"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All Recipes"
+msgstr ""
+
+msgid "Allow comments in regex (COMMENTS)"
+msgstr ""
+
+msgid "Allow comments in regex [COMMENTS] (x flag)"
+msgstr ""
+
+msgid "Beta"
+msgstr ""
+
+msgid "Bookstore"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Case insensitive (CASE_INSENSITIVE)"
+msgstr ""
+
+msgid "Case insensitive (caseSensitive == False)"
+msgstr ""
+
+msgid "Case insensitive [CASE_INSENSITIVE] (i flag)"
+msgstr ""
+
+msgid "Case insensitive matching (IGNORECASE)"
+msgstr ""
+
+msgid "Case-insensitive matching (IgnoreCase)"
+msgstr ""
+
+msgid "Case-insensitive matching (i)"
+msgstr ""
+
+msgid "Change language"
+msgstr ""
+
+msgid "Coding"
+msgstr ""
+
+msgid "Compile error"
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Cookbook"
+msgstr ""
+
+msgid "Cookbook:"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Current Status"
+msgstr ""
+
+msgid "DEBUG"
+msgstr ""
+
+msgid "DOTALL"
+msgstr ""
+
+msgid "Debugging Info"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Design & Graphics"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Dot matches all (s)"
+msgstr ""
+
+msgid "Dot matches line terminator (DOTALL)"
+msgstr ""
+
+msgid "Dot matches line terminator [DOTALL] (s flag)"
+msgstr ""
+
+msgid "ECMAScript-compliant behavior. This is flag is only compatible with the IgnoreCase, Multiline, and Compiled flags. (ECMAScript)"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Eliminate unescaped white space from the pattern and enable comments marked with # (IgnorePatternWhitespace)"
+msgstr ""
+
+msgid "Email:"
+msgstr ""
+
+msgid "Engine"
+msgstr ""
+
+msgid "Engine Status"
+msgstr ""
+
+msgid "Engines"
+msgstr ""
+
+msgid "Erlang"
+msgstr ""
+
+msgid "Explicit capture (n)"
+msgstr ""
+
+msgid "Expression to test"
+msgstr ""
+
+msgid "Extended with whitespace and comments (x)"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "Featured"
+msgstr ""
+
+msgid "Featured Recipes"
+msgstr ""
+
+msgid "Force canonical equivalence (CANON_EQ)"
+msgstr ""
+
+msgid "Force canonical equivalence [CANON_EQ]"
+msgstr ""
+
+msgid "Fork"
+msgstr ""
+
+msgid "Free-spacing and line comments (x)"
+msgstr ""
+
+msgid "Frequently Asked Questions"
+msgstr ""
+
+msgid "Frequenty Asked Questions"
+msgstr ""
+
+msgid "Global match (g)"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "Historical Performance"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Hosting"
+msgstr ""
+
+msgid "IGNORECASE"
+msgstr ""
+
+msgid "Ignore whitespace in the regular expression (EXTENDED)"
+msgstr ""
+
+#, java-format
+msgid "Input {0}:"
+msgstr ""
+
+msgid "Internal ID:"
+msgstr ""
+
+msgid "Invalid share code"
+msgstr ""
+
+msgid "Java"
+msgstr ""
+
+msgid "JavaDoc"
+msgstr ""
+
+msgid "Jobs"
+msgstr ""
+
+msgid "Keep current position (c)"
+msgstr ""
+
+msgid "Known Regex Engines"
+msgstr ""
+
+msgid "Known Regular Expression Engines"
+msgstr ""
+
+msgid "LOCALE"
+msgstr ""
+
+msgid "Last star is greedy (tdfa only, lastStarGreedy)"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "MSDN"
+msgstr ""
+
+msgid "MULTILINE"
+msgstr ""
+
+msgid "Make share code"
+msgstr ""
+
+msgid "Matches must start at lastIndex (y) NOTE: not supported at RegexPlanet"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
+msgid "Mine"
+msgstr ""
+
+msgid "More Inputs"
+msgstr ""
+
+msgid "More..."
+msgstr ""
+
+msgid "My Recipes"
+msgstr ""
+
+msgid "Need help on a specific regex?  Make a share code, then post it on the <a href=\"/cookbook/request.html\">Request a Recipe</a> page"
+msgstr ""
+
+msgid "Newlines are just another character (MULTILINE)"
+msgstr ""
+
+msgid "Nickname:"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+#, java-format
+msgid "Number of links: {0}"
+msgstr ""
+
+msgid "Official Documentation Links"
+msgstr ""
+
+msgid "One last thing"
+msgstr ""
+
+msgid "Online Regular Expression Testing"
+msgstr ""
+
+msgid "Online Testing"
+msgstr ""
+
+#, java-format
+msgid "Online testing with the {0} engine is not complete - alpha testing only!"
+msgstr ""
+
+#, java-format
+msgid "Online testing with the {0} engine is still in beta."
+msgstr ""
+
+msgid "Only consider '\\n' as line terminator (UNIX_LINES)"
+msgstr ""
+
+msgid "Only consider '\\n' as line terminator [UNIX_LINES]"
+msgstr ""
+
+msgid "Options:"
+msgstr ""
+
+msgid "Original Expression"
+msgstr ""
+
+msgid "Other sources"
+msgstr ""
+
+msgid "PCRE Functions"
+msgstr ""
+
+msgid "PCRE overview"
+msgstr ""
+
+msgid "PHP"
+msgstr ""
+
+msgid "Package regexp"
+msgstr ""
+
+msgid "Perl"
+msgstr ""
+
+msgid "Pick which programming language you are using:"
+msgstr ""
+
+msgid "Please include a share code (from one of the test pages).  Even if you don't fill in the regex, fill in some inputs so we can see what you are trying to match."
+msgstr ""
+
+msgid "Preserve matched strings (p)"
+msgstr ""
+
+msgid "Previous version"
+msgstr ""
+
+msgid "Privacy Policy"
+msgstr ""
+
+msgid "Programming Ruby"
+msgstr ""
+
+msgid "Python"
+msgstr ""
+
+msgid "Raw View"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Recent Recipes"
+msgstr ""
+
+msgid "Recently Bookmarked"
+msgstr ""
+
+msgid "Recipe Requests"
+msgstr ""
+
+msgid "Recipes by user"
+msgstr ""
+
+msgid "RegEx: online regular expression testing"
+msgstr ""
+
+msgid "Regex Engine Status"
+msgstr ""
+
+msgid "Regex:"
+msgstr ""
+
+#, java-format
+msgid "RegexPlanet - Online Regular Expression (Regex) Testing and Cookbook for: {0}"
+msgstr ""
+
+msgid "RegexPlanet Resources"
+msgstr ""
+
+#, java-format
+msgid "RegexPlanet: online regular expression testing for {0}"
+msgstr ""
+
+msgid "Regexp Ruby-Doc"
+msgstr ""
+
+msgid "Regexp class"
+msgstr ""
+
+msgid "Regular Expression"
+msgstr ""
+
+msgid "Regular Expression Sharing"
+msgstr ""
+
+msgid "Regular Expression Test Page"
+msgstr ""
+
+msgid "Regular expression:"
+msgstr ""
+
+msgid "Regular expressions are an incredibly powerful tool, but can be rather tricky to get exactly right.  This is a website that I wrote so I could quickly and easily test regular expressions during development."
+msgstr ""
+
+msgid "Replacement"
+msgstr ""
+
+msgid "Replacement:"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Right associative (rightAssoc)"
+msgstr ""
+
+msgid "Ruby"
+msgstr ""
+
+msgid "Running"
+msgstr ""
+
+msgid "Security Information"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select a language"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Share Codes"
+msgstr ""
+
+msgid "Share code"
+msgstr ""
+
+msgid "Share codes are an easy way to share regexes.  If you have a share code, enter it here:"
+msgstr ""
+
+msgid "Share it:"
+msgstr ""
+
+msgid "Share!"
+msgstr ""
+
+msgid "Similar"
+msgstr ""
+
+msgid "Start Testing!"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "Support Links"
+msgstr ""
+
+msgid "Support Unicode astral characters (A)"
+msgstr ""
+
+msgid "Syntax"
+msgstr ""
+
+msgid "System.Text.RegularExpressions.Regex"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "Target String"
+msgstr ""
+
+msgid "Terms of Service"
+msgstr ""
+
+msgid "Test"
+msgstr ""
+
+msgid "Test Results"
+msgstr ""
+
+msgid "Testing"
+msgstr ""
+
+msgid "The Regex Cookbook"
+msgstr ""
+
+msgid "The original version was Java-based and did not require a JavaScript-enabled browser.  No need to use it if the Java one above works for you, but a lot of links go directly to it:"
+msgstr ""
+
+msgid "This engine is not being monitored"
+msgstr ""
+
+msgid "This will be visible to the public if you share any of your recipes."
+msgstr ""
+
+msgid "This will not be published or shared."
+msgstr ""
+
+msgid "To Do"
+msgstr ""
+
+msgid "Tools and services used to build RegexPlanet"
+msgstr ""
+
+msgid "Translations"
+msgstr ""
+
+msgid "Treat as a sequence of literal characters (LITERAL)"
+msgstr ""
+
+msgid "Try it:"
+msgstr ""
+
+msgid "UNICODE"
+msgstr ""
+
+#, java-format
+msgid "Unable to load share code {0}"
+msgstr ""
+
+msgid "Unicode case matching (UNICODE_CASE)"
+msgstr ""
+
+msgid "Unicode case matching [UNICODE_CASE]"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Use ASCII charset rules (a)"
+msgstr ""
+
+msgid "Use Unicode charset rules (u)"
+msgstr ""
+
+msgid "Use default charset rules (d)"
+msgstr ""
+
+msgid "Use locale charset rules (l)"
+msgstr ""
+
+msgid "Use the cookbook to save and share regex recipes.<br/><br/>Note: while you can view anonymously, you must be logged in to save."
+msgstr ""
+
+msgid "VERBOSE"
+msgstr ""
+
+msgid "View Recipe"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You are already logged in."
+msgstr ""
+
+#, java-format
+msgid "You are logged in as {0}"
+msgstr ""
+
+msgid "You are not logged in."
+msgstr ""
+
+msgid "You are not the owner"
+msgstr ""
+
+msgid "You cannot share blank regular expressions"
+msgstr ""
+
+msgid "You created this on a different machine"
+msgstr ""
+
+msgid "You have to <a href=\"/security/login.html?next=/cookbook/my.html\">login</a> first!"
+msgstr ""
+
+msgid "Your sharing link is "
+msgstr ""
+
+msgid "^ and $ match EOL (MULTILINE)"
+msgstr ""
+
+msgid "^ and $ match EOL (multiline)"
+msgstr ""
+
+msgid "^ and $ match EOL [MULTILINE] (m flag)"
+msgstr ""
+
+msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (Multiline)"
+msgstr ""
+
+msgid "^ and $ so they match at the beginning and end, respectively, of any line, and not just the beginning and end of the entire string (m)"
+msgstr ""
+
+msgid "as a Java string"
+msgstr ""
+
+msgid "behavior details"
+msgstr ""
+
+msgid "best practices"
+msgstr ""
+
+msgid "case-insensitive (i)"
+msgstr ""
+
+msgid "dot (.) matches every character instead of every character except newlines (Singleline)"
+msgstr ""
+
+msgid "featured"
+msgstr ""
+
+msgid "for Java"
+msgstr ""
+
+msgid "global - find all matches (g)"
+msgstr ""
+
+msgid "golang.org"
+msgstr ""
+
+msgid "howto"
+msgstr ""
+
+msgid "i - Case insensitive (PCRE_CASELESS)"
+msgstr ""
+
+msgid "ignore cultural differences in language (CultureInvariant)"
+msgstr ""
+
+msgid "java.util.regex.Pattern"
+msgstr ""
+
+msgid "login"
+msgstr ""
+
+msgid "m - ^ and $ match EOL (PCRE_MULTILINE)"
+msgstr ""
+
+msgid "metadata"
+msgstr ""
+
+msgid "multiline (m)"
+msgstr ""
+
+msgid "only explicitly named or numbered groups of the form (?<name>…) are valid captures (ExplicitCapture)"
+msgstr ""
+
+msgid "overview"
+msgstr ""
+
+msgid "perldoc"
+msgstr ""
+
+msgid "perlre"
+msgstr ""
+
+msgid "private"
+msgstr ""
+
+msgid "re man page"
+msgstr ""
+
+msgid "re module"
+msgstr ""
+
+msgid "re pyDoc"
+msgstr ""
+
+msgid "s - Dot matches line terminator (PCRE_DOTALL)"
+msgstr ""
+
+msgid "search will be from right to left instead of from left to right (RightToLeft)"
+msgstr ""
+
+msgid "shared"
+msgstr ""
+
+msgid "single line (s)"
+msgstr ""
+
+msgid "source"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "u - Pattern strings are treated as UTF-8 (PCRE8)"
+msgstr ""
+
+msgid "uptime"
+msgstr ""
+
+msgid "useful websites for Regex developers"
+msgstr ""
+
+msgid "x - Allow comments in regex (PCRE_EXTENDED)"
+msgstr ""
+
+#, java-format
+msgid "{0} (alpha)"
+msgstr ""
+
+#, java-format
+msgid "{0} (beta)"
+msgstr ""
+
+#, java-format
+msgid "{0} ({1})"
+msgstr ""
+
+#, java-format
+msgid "{0} Engine Current Status"
+msgstr ""
+
+#, java-format
+msgid "{0} Engine Historical Performance"
+msgstr ""
+
+#, java-format
+msgid "{0} Engine Metadata"
+msgstr ""
