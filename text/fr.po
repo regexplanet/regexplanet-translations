@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 10:43-0400\n"
+"POT-Creation-Date: 2014-06-22 09:14-0400\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Andrew Marcuse <fileformat@gmail.com>\n"
 "Language-Team: \n"
@@ -67,6 +67,9 @@ msgstr "Un moyen rapide et facile à partager les expressions régulières"
 msgid "Add"
 msgstr "Ajouter"
 
+msgid "Add the extended non-POSIX syntax (tdfa only, newSyntax)"
+msgstr ""
+
 msgid "Admin Edit"
 msgstr ""
 
@@ -103,6 +106,10 @@ msgstr "Annuler"
 #, fuzzy
 msgid "Case insensitive (CASE_INSENSITIVE)"
 msgstr "Insensible à la casse (case_insensitive)"
+
+#, fuzzy
+msgid "Case insensitive (caseSensitive == False)"
+msgstr "Insensible à la casse (IgnoreCase)"
 
 #, fuzzy
 msgid "Case insensitive [CASE_INSENSITIVE] (i flag)"
@@ -170,6 +177,9 @@ msgstr "Description"
 #, fuzzy
 msgid "Design & Graphics"
 msgstr "Design & Graphics"
+
+msgid "Details"
+msgstr ""
 
 #, fuzzy
 msgid "Dot matches all (s)"
@@ -335,6 +345,9 @@ msgstr "Test en ligne Expression régulière"
 msgid "LOCALE"
 msgstr "LOCALE"
 
+msgid "Last star is greedy (tdfa only, lastStarGreedy)"
+msgstr ""
+
 msgid "License"
 msgstr ""
 
@@ -400,6 +413,10 @@ msgstr "Pseudo:"
 #, fuzzy
 msgid "No"
 msgstr "Aucun"
+
+#, java-format
+msgid "Number of links: {0}"
+msgstr ""
 
 msgid "Official Documentation Links"
 msgstr "Liens de documentation officiels"
@@ -588,6 +605,9 @@ msgstr "Remplacement:"
 #, fuzzy
 msgid "Reset"
 msgstr "Remettre"
+
+msgid "Right associative (rightAssoc)"
+msgstr ""
 
 msgid "Ruby"
 msgstr "Ruby"
@@ -820,6 +840,10 @@ msgstr "Votre lien de partage est"
 
 #, fuzzy
 msgid "^ and $ match EOL (MULTILINE)"
+msgstr "^ Et $ correspondent EOL (MULTILINE)"
+
+#, fuzzy
+msgid "^ and $ match EOL (multiline)"
 msgstr "^ Et $ correspondent EOL (MULTILINE)"
 
 #, fuzzy

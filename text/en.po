@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 10:43-0400\n"
+"POT-Creation-Date: 2014-06-22 09:14-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Andrew M <fileformat@gmail.com>\n"
 "Language: en\n"
@@ -62,6 +62,9 @@ msgstr ""
 msgid "Add"
 msgstr ""
 
+msgid "Add the extended non-POSIX syntax (tdfa only, newSyntax)"
+msgstr ""
+
 msgid "Admin Edit"
 msgstr ""
 
@@ -90,6 +93,9 @@ msgid "Cancel"
 msgstr ""
 
 msgid "Case insensitive (CASE_INSENSITIVE)"
+msgstr ""
+
+msgid "Case insensitive (caseSensitive == False)"
 msgstr ""
 
 msgid "Case insensitive [CASE_INSENSITIVE] (i flag)"
@@ -141,6 +147,9 @@ msgid "Description"
 msgstr ""
 
 msgid "Design & Graphics"
+msgstr ""
+
+msgid "Details"
 msgstr ""
 
 msgid "Dot matches all (s)"
@@ -268,6 +277,9 @@ msgstr ""
 msgid "LOCALE"
 msgstr ""
 
+msgid "Last star is greedy (tdfa only, lastStarGreedy)"
+msgstr ""
+
 msgid "License"
 msgstr ""
 
@@ -319,6 +331,10 @@ msgid "Nickname:"
 msgstr ""
 
 msgid "No"
+msgstr ""
+
+#, java-format
+msgid "Number of links: {0}"
 msgstr ""
 
 msgid "Official Documentation Links"
@@ -466,6 +482,9 @@ msgid "Replacement:"
 msgstr ""
 
 msgid "Reset"
+msgstr ""
+
+msgid "Right associative (rightAssoc)"
 msgstr ""
 
 msgid "Ruby"
@@ -645,6 +664,9 @@ msgid "Your sharing link is "
 msgstr ""
 
 msgid "^ and $ match EOL (MULTILINE)"
+msgstr ""
+
+msgid "^ and $ match EOL (multiline)"
 msgstr ""
 
 msgid "^ and $ match EOL [MULTILINE] (m flag)"

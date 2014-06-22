@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-13 10:43-0400\n"
+"POT-Creation-Date: 2014-06-22 09:14-0400\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Omar Siam <simar@gmx.net>\n"
 "Language-Team: \n"
@@ -71,6 +71,9 @@ msgstr "Eine schnelle und einfache Möglichkeit, reguläre Ausdrücke zu teilen"
 msgid "Add"
 msgstr "Hinzufügen"
 
+msgid "Add the extended non-POSIX syntax (tdfa only, newSyntax)"
+msgstr ""
+
 msgid "Admin Edit"
 msgstr ""
 
@@ -104,6 +107,10 @@ msgstr "Abbrechen"
 
 msgid "Case insensitive (CASE_INSENSITIVE)"
 msgstr "Groß-/Kleinschreibung ignorieren (CASE_INSENSITIVE)"
+
+#, fuzzy
+msgid "Case insensitive (caseSensitive == False)"
+msgstr "Ohne Groß-/Kleinschreibung vergleichen (IgnoreCase)"
 
 msgid "Case insensitive [CASE_INSENSITIVE] (i flag)"
 msgstr "Groß-/Kleinschreibung ignorieren [CASE_INSENSITIVE] (i flag)"
@@ -163,6 +170,9 @@ msgstr "Beschreibung"
 #, fuzzy
 msgid "Design & Graphics"
 msgstr "Design & Grafik"
+
+msgid "Details"
+msgstr ""
 
 msgid "Dot matches all (s)"
 msgstr "Punkt steht für alle Zeichen (s)"
@@ -304,6 +314,9 @@ msgstr "Bekannte Engines für Reguläre Ausdrücke"
 msgid "LOCALE"
 msgstr "LOCALE"
 
+msgid "Last star is greedy (tdfa only, lastStarGreedy)"
+msgstr ""
+
 msgid "License"
 msgstr "Lizenz"
 
@@ -367,6 +380,10 @@ msgstr "Nickname:"
 
 msgid "No"
 msgstr "Nein"
+
+#, java-format
+msgid "Number of links: {0}"
+msgstr ""
 
 msgid "Official Documentation Links"
 msgstr "Links zur offiziellen Dokumentation"
@@ -538,6 +555,9 @@ msgstr "Ersetzung:"
 #, fuzzy
 msgid "Reset"
 msgstr "Zurücksetzen"
+
+msgid "Right associative (rightAssoc)"
+msgstr ""
 
 msgid "Ruby"
 msgstr "Ruby"
@@ -742,6 +762,10 @@ msgid "Your sharing link is "
 msgstr "Ihr Link zum teilen lautet"
 
 msgid "^ and $ match EOL (MULTILINE)"
+msgstr "^ und $ passen auf Zeilenende (MULTILINE)"
+
+#, fuzzy
+msgid "^ and $ match EOL (multiline)"
 msgstr "^ und $ passen auf Zeilenende (MULTILINE)"
 
 msgid "^ and $ match EOL [MULTILINE] (m flag)"
